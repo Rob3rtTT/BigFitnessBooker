@@ -1,0 +1,1256 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <!-- Required meta tags -->
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+        <link rel="stylesheet" href="/assets/css/structure.css?202402081200">
+        <link rel="stylesheet" href="/assets/css/style.css?202210201111">
+        <link rel="stylesheet" media="print"  href="/assets/css/schedule-print.css?202212151212">
+        <script src="/assets/js/jquery-3.2.1.min.js?201810301223"></script>
+        <script src="/assets/js/iframeResizer.contentWindow.min.js?201810301223"></script>
+    </head>
+    <body id="upfcl-schedule">
+        <style>            .upfcl-schedule-caption LI{font-size:14px; line-height:1.5em; font-weight:normal;}
+                        .upfcl-sc-3 {color: #059c38; border-left-color: #059c38;}
+            LI.upfcl-sc-3::before {background: #059c38;}
+            .upfcl-sc-3 .upfcl-btn{ background: #059c38; color: #fff; }
+                .upfcl-sc-3 .upfcl-btn:hover{ filter: brightness(85%); }
+                        .upfcl-sc-10 {color: #0038ff; border-left-color: #0038ff;}
+            LI.upfcl-sc-10::before {background: #0038ff;}
+            .upfcl-sc-10 .upfcl-btn{ background: #0038ff; color: #fff; }
+                .upfcl-sc-10 .upfcl-btn:hover{ filter: brightness(85%); }
+                        .upfcl-sc-1 {color: #256ce0; border-left-color: #256ce0;}
+            LI.upfcl-sc-1::before {background: #256ce0;}
+            .upfcl-sc-1 .upfcl-btn{ background: #256ce0; color: #fff; }
+                .upfcl-sc-1 .upfcl-btn:hover{ filter: brightness(85%); }
+                        .upfcl-sc-8 {color: #00ffff; border-left-color: #00ffff;}
+            LI.upfcl-sc-8::before {background: #00ffff;}
+            .upfcl-sc-8 .upfcl-btn{ background: #00ffff; color: #fff; }
+                .upfcl-sc-8 .upfcl-btn:hover{ filter: brightness(85%); }
+                        .upfcl-sc-7 {color: #ff0000; border-left-color: #ff0000;}
+            LI.upfcl-sc-7::before {background: #ff0000;}
+            .upfcl-sc-7 .upfcl-btn{ background: #ff0000; color: #fff; }
+                .upfcl-sc-7 .upfcl-btn:hover{ filter: brightness(85%); }
+                    </style>        <div>
+            <h2><!--BIG FITNESS-->
+                            <ul class="upfcl-schedule-caption">
+                    <li class="print-btn">
+                        <a href="javascript:window.print()">
+                        <svg aria-hidden="true" data-prefix="fas" data-icon="print" class="svg-inline--fa fa-print fa-w-16" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path fill="currentColor" d="M448 192V77.25c0-8.49-3.37-16.62-9.37-22.63L393.37 9.37c-6-6-14.14-9.37-22.63-9.37H96C78.33 0 64 14.33 64 32v160c-35.35 0-64 28.65-64 64v112c0 8.84 7.16 16 16 16h48v96c0 17.67 14.33 32 32 32h320c17.67 0 32-14.33 32-32v-96h48c8.84 0 16-7.16 16-16V256c0-35.35-28.65-64-64-64zm-64 256H128v-96h256v96zm0-224H128V64h192v48c0 8.84 7.16 16 16 16h48v96zm48 72c-13.25 0-24-10.75-24-24 0-13.26 10.75-24 24-24s24 10.74 24 24c0 13.25-10.75 24-24 24z"></path></svg>
+                        PRINT</a>
+                    </li>
+                                        <li class="upfcl-sc-3">AEROBIC</li>
+                                        <li class="upfcl-sc-10">KIDS</li>
+                                        <li class="upfcl-sc-1">CYCLING</li>
+                                        <li class="upfcl-sc-8">BOX</li>
+                                        <li class="upfcl-sc-7">KANGOO JUMPS</li>
+                                    </ul>
+                        </h2>
+            <div class="clearfix"></div>
+                    <!-- Schedule type: GRID type 1 -->
+            <div class="upfcl_slider" id="upfcl_slider-1" data-upfcl_slider="1">
+                <div id="upfcl_slider_box-1" class="upfcl_frame upfcl_frame-1">
+                    <ul class="upfcl_slides upfcl_slides-1">
+                                                            </li>
+                                    <li class="upfcl-schedule-tt">
+                            <div class="upfcl-schedule-header">
+                                <h4 class="upfcl-schedule-day">Miercuri</h4>
+                                <h5 class="upfcl-schedule-date">10 Aprilie</h5>
+                            </div>
+                                            <div class="upfcl-class upfcl-sc-c834ef0413cb062aada2a56e769d63d1">
+                                <div class="upfcl-class-time" id="upfcl-class-time-27537"><span class="upfcl-class-start">08:00</span> - <span class="upfcl-class-end">08:50</span></div>
+                                <div class="upfcl-class-name" id="upfcl-class-name-27537">BUTT&amp;ABS</div>
+                                <div class="upfcl-class-trainer" id="upfcl-class-trainer-27537">TATIANA PINTEA</div>
+                                <div class="upfcl-class-room" id="upfcl-class-room-27537">TRX</div>
+                                <div class="upfcl-class-date" id="upfcl-class-date-27537" style="display:none">10.04.2024</div>
+                                <div class="upfcl-class-description" id="upfcl-class-description-27537" style="display:none"></div>
+                                <div class="upfcl-class-difficulty" id="upfcl-class-difficulty-27537" style="display:none"></div>
+                                <div class="upfcl-class-types" id="upfcl-class-types-27537" style="display:none"></div>
+                                <div class="upfcl-class-benefits" id="upfcl-class-benefits-27537" style="display:none"></div>
+                                                    </div>
+                                                <div class="upfcl-class upfcl-sc-3">
+                                <div class="upfcl-class-time" id="upfcl-class-time-27934"><span class="upfcl-class-start">09:00</span> - <span class="upfcl-class-end">09:50</span></div>
+                                <div class="upfcl-class-name" id="upfcl-class-name-27934">BODY PUMP</div>
+                                <div class="upfcl-class-trainer" id="upfcl-class-trainer-27934">TATIANA PINTEA</div>
+                                <div class="upfcl-class-room" id="upfcl-class-room-27934">AEROBIC STUDIO</div>
+                                <div class="upfcl-class-date" id="upfcl-class-date-27934" style="display:none">10.04.2024</div>
+                                <div class="upfcl-class-description" id="upfcl-class-description-27934" style="display:none"></div>
+                                <div class="upfcl-class-difficulty" id="upfcl-class-difficulty-27934" style="display:none"></div>
+                                <div class="upfcl-class-types" id="upfcl-class-types-27934" style="display:none"></div>
+                                <div class="upfcl-class-benefits" id="upfcl-class-benefits-27934" style="display:none"></div>
+                                                    </div>
+                                                <div class="upfcl-class upfcl-sc-3">
+                                <div class="upfcl-class-time" id="upfcl-class-time-44950"><span class="upfcl-class-start">09:00</span> - <span class="upfcl-class-end">09:50</span></div>
+                                <div class="upfcl-class-name" id="upfcl-class-name-44950">TABATA</div>
+                                <div class="upfcl-class-trainer" id="upfcl-class-trainer-44950">IOANA DIOSAN</div>
+                                <div class="upfcl-class-room" id="upfcl-class-room-44950">CYCLING STUDIO</div>
+                                <div class="upfcl-class-date" id="upfcl-class-date-44950" style="display:none">10.04.2024</div>
+                                <div class="upfcl-class-description" id="upfcl-class-description-44950" style="display:none"></div>
+                                <div class="upfcl-class-difficulty" id="upfcl-class-difficulty-44950" style="display:none"></div>
+                                <div class="upfcl-class-types" id="upfcl-class-types-44950" style="display:none"></div>
+                                <div class="upfcl-class-benefits" id="upfcl-class-benefits-44950" style="display:none"></div>
+                                                    </div>
+                                                <div class="upfcl-class upfcl-sc-10">
+                                <div class="upfcl-class-time" id="upfcl-class-time-43906"><span class="upfcl-class-start">16:00</span> - <span class="upfcl-class-end">16:50</span></div>
+                                <div class="upfcl-class-name" id="upfcl-class-name-43906">GIMNASTICA RITMICA</div>
+                                <div class="upfcl-class-trainer" id="upfcl-class-trainer-43906">STEFANIA OLTEAN</div>
+                                <div class="upfcl-class-room" id="upfcl-class-room-43906">CYCLING STUDIO</div>
+                                <div class="upfcl-class-date" id="upfcl-class-date-43906" style="display:none">10.04.2024</div>
+                                <div class="upfcl-class-description" id="upfcl-class-description-43906" style="display:none"></div>
+                                <div class="upfcl-class-difficulty" id="upfcl-class-difficulty-43906" style="display:none"></div>
+                                <div class="upfcl-class-types" id="upfcl-class-types-43906" style="display:none"></div>
+                                <div class="upfcl-class-benefits" id="upfcl-class-benefits-43906" style="display:none"></div>
+                                                    </div>
+                                                <div class="upfcl-class upfcl-sc-10">
+                                <div class="upfcl-class-time" id="upfcl-class-time-28331"><span class="upfcl-class-start">16:40</span> - <span class="upfcl-class-end">17:30</span></div>
+                                <div class="upfcl-class-name" id="upfcl-class-name-28331">TAEKWONDO</div>
+                                <div class="upfcl-class-trainer" id="upfcl-class-trainer-28331">ALEXANDRU MURESAN</div>
+                                <div class="upfcl-class-room" id="upfcl-class-room-28331">AEROBIC STUDIO</div>
+                                <div class="upfcl-class-date" id="upfcl-class-date-28331" style="display:none">10.04.2024</div>
+                                <div class="upfcl-class-description" id="upfcl-class-description-28331" style="display:none">Accesul permis copiilor</div>
+                                <div class="upfcl-class-difficulty" id="upfcl-class-difficulty-28331" style="display:none"></div>
+                                <div class="upfcl-class-types" id="upfcl-class-types-28331" style="display:none"></div>
+                                <div class="upfcl-class-benefits" id="upfcl-class-benefits-28331" style="display:none"></div>
+                                                    </div>
+                                                <div class="upfcl-class upfcl-sc-10">
+                                <div class="upfcl-class-time" id="upfcl-class-time-44594"><span class="upfcl-class-start">17:00</span> - <span class="upfcl-class-end">17:50</span></div>
+                                <div class="upfcl-class-name" id="upfcl-class-name-44594">FUNCTIONAL KIDS</div>
+                                <div class="upfcl-class-trainer" id="upfcl-class-trainer-44594">FLAVIU LAZAR</div>
+                                <div class="upfcl-class-room" id="upfcl-class-room-44594">TRX</div>
+                                <div class="upfcl-class-date" id="upfcl-class-date-44594" style="display:none">10.04.2024</div>
+                                <div class="upfcl-class-description" id="upfcl-class-description-44594" style="display:none"></div>
+                                <div class="upfcl-class-difficulty" id="upfcl-class-difficulty-44594" style="display:none"></div>
+                                <div class="upfcl-class-types" id="upfcl-class-types-44594" style="display:none"></div>
+                                <div class="upfcl-class-benefits" id="upfcl-class-benefits-44594" style="display:none"></div>
+                                                    </div>
+                                                <div class="upfcl-class upfcl-sc-9e470c0219dcb994c9f6ccd278859950">
+                                <div class="upfcl-class-time" id="upfcl-class-time-28728"><span class="upfcl-class-start">18:00</span> - <span class="upfcl-class-end">18:50</span></div>
+                                <div class="upfcl-class-name" id="upfcl-class-name-28728">TRX FUNCTIONAL INCEPATORI</div>
+                                <div class="upfcl-class-trainer" id="upfcl-class-trainer-28728">FLAVIU LAZAR</div>
+                                <div class="upfcl-class-room" id="upfcl-class-room-28728">AEROBIC STUDIO</div>
+                                <div class="upfcl-class-date" id="upfcl-class-date-28728" style="display:none">10.04.2024</div>
+                                <div class="upfcl-class-description" id="upfcl-class-description-28728" style="display:none"></div>
+                                <div class="upfcl-class-difficulty" id="upfcl-class-difficulty-28728" style="display:none"></div>
+                                <div class="upfcl-class-types" id="upfcl-class-types-28728" style="display:none"></div>
+                                <div class="upfcl-class-benefits" id="upfcl-class-benefits-28728" style="display:none"></div>
+                                                    </div>
+                                                <div class="upfcl-class upfcl-sc-c834ef0413cb062aada2a56e769d63d1">
+                                <div class="upfcl-class-time" id="upfcl-class-time-29125"><span class="upfcl-class-start">18:00</span> - <span class="upfcl-class-end">18:50</span></div>
+                                <div class="upfcl-class-name" id="upfcl-class-name-29125">BUTT&amp;ABS</div>
+                                <div class="upfcl-class-trainer" id="upfcl-class-trainer-29125">PETRA NADABAN</div>
+                                <div class="upfcl-class-room" id="upfcl-class-room-29125">TRX</div>
+                                <div class="upfcl-class-date" id="upfcl-class-date-29125" style="display:none">10.04.2024</div>
+                                <div class="upfcl-class-description" id="upfcl-class-description-29125" style="display:none"></div>
+                                <div class="upfcl-class-difficulty" id="upfcl-class-difficulty-29125" style="display:none"></div>
+                                <div class="upfcl-class-types" id="upfcl-class-types-29125" style="display:none"></div>
+                                <div class="upfcl-class-benefits" id="upfcl-class-benefits-29125" style="display:none"></div>
+                                                    </div>
+                                                <div class="upfcl-class upfcl-sc-0b69d27b50d60d063dc0c5e9a31af874">
+                                <div class="upfcl-class-time" id="upfcl-class-time-29522"><span class="upfcl-class-start">19:00</span> - <span class="upfcl-class-end">19:50</span></div>
+                                <div class="upfcl-class-name" id="upfcl-class-name-29522">TAE-BO</div>
+                                <div class="upfcl-class-trainer" id="upfcl-class-trainer-29522">MELINDA FERENCZI</div>
+                                <div class="upfcl-class-room" id="upfcl-class-room-29522">TRX</div>
+                                <div class="upfcl-class-date" id="upfcl-class-date-29522" style="display:none">10.04.2024</div>
+                                <div class="upfcl-class-description" id="upfcl-class-description-29522" style="display:none"></div>
+                                <div class="upfcl-class-difficulty" id="upfcl-class-difficulty-29522" style="display:none"></div>
+                                <div class="upfcl-class-types" id="upfcl-class-types-29522" style="display:none"></div>
+                                <div class="upfcl-class-benefits" id="upfcl-class-benefits-29522" style="display:none"></div>
+                                                        <button class="upfcl-btn upfcl-btn-block upfcl-btn-sm upfcl-modal-book" data-id="29522">REZERVĂ</button>
+                                                <button class="upfcl-btn upfcl-btn-block upfcl-btn-sm upfcl-modal-book seven_card_book" data-id="29522">REZERVĂ CU 7CARD</button>
+                                                                                <a href="#" data-params="CA66YxfY1kfDe3jSOlcklylvoxoaiPX1oqV6n1KaeV78vqsSqHg09U%2FuDquSJwyFjPi0lgZmy4gxFI5VgbBJqOOx5DjXJLIjV4ykFPdhImJ2Ui9rosld7dhyDscevFMp" class="upfcl-btn upfcl-btn-block upfcl-btn-sm sanopass-book"  data-toggle="modal" data-target="#inbox">REZERVĂ CU SANOPASS</a>
+                                                        </div>
+                                                <div class="upfcl-class upfcl-sc-ad0fa5f139316dbc5298af6822395451">
+                                <div class="upfcl-class-time" id="upfcl-class-time-29919"><span class="upfcl-class-start">19:00</span> - <span class="upfcl-class-end">19:50</span></div>
+                                <div class="upfcl-class-name" id="upfcl-class-name-29919">ZUMBA STEP</div>
+                                <div class="upfcl-class-trainer" id="upfcl-class-trainer-29919">RAMONA IGE</div>
+                                <div class="upfcl-class-room" id="upfcl-class-room-29919">AEROBIC STUDIO</div>
+                                <div class="upfcl-class-date" id="upfcl-class-date-29919" style="display:none">10.04.2024</div>
+                                <div class="upfcl-class-description" id="upfcl-class-description-29919" style="display:none"></div>
+                                <div class="upfcl-class-difficulty" id="upfcl-class-difficulty-29919" style="display:none"></div>
+                                <div class="upfcl-class-types" id="upfcl-class-types-29919" style="display:none"></div>
+                                <div class="upfcl-class-benefits" id="upfcl-class-benefits-29919" style="display:none"></div>
+                                                        <button class="upfcl-btn upfcl-btn-block upfcl-btn-sm upfcl-modal-book" data-id="29919">REZERVĂ</button>
+                                                <button class="upfcl-btn upfcl-btn-block upfcl-btn-sm upfcl-modal-book seven_card_book" data-id="29919">REZERVĂ CU 7CARD</button>
+                                                                                <a href="#" data-params="%2BncP9t40XKxcYPEUqjDjsxWrKtyHNez6kHVXPeXcozMqKSi0aiM%2BeVuOaGqH4%2FbF2n2k0PjO2DtolGl7gYjhHtZpNKoJnPxj8T7QKpZdB7GhfzRoH0IJHkP4WzBIjJkm" class="upfcl-btn upfcl-btn-block upfcl-btn-sm sanopass-book"  data-toggle="modal" data-target="#inbox">REZERVĂ CU SANOPASS</a>
+                                                        </div>
+                                                <div class="upfcl-class upfcl-sc-3">
+                                <div class="upfcl-class-time" id="upfcl-class-time-44753"><span class="upfcl-class-start">19:00</span> - <span class="upfcl-class-end">19:50</span></div>
+                                <div class="upfcl-class-name" id="upfcl-class-name-44753">STRENGTH &amp; CARDIO</div>
+                                <div class="upfcl-class-trainer" id="upfcl-class-trainer-44753">STEFANIA MORARU, TATIANA PINTEA</div>
+                                <div class="upfcl-class-room" id="upfcl-class-room-44753">CYCLING STUDIO</div>
+                                <div class="upfcl-class-date" id="upfcl-class-date-44753" style="display:none">10.04.2024</div>
+                                <div class="upfcl-class-description" id="upfcl-class-description-44753" style="display:none"></div>
+                                <div class="upfcl-class-difficulty" id="upfcl-class-difficulty-44753" style="display:none"></div>
+                                <div class="upfcl-class-types" id="upfcl-class-types-44753" style="display:none"></div>
+                                <div class="upfcl-class-benefits" id="upfcl-class-benefits-44753" style="display:none"></div>
+                                                        <button class="upfcl-btn upfcl-btn-block upfcl-btn-sm upfcl-modal-book" data-id="44753">REZERVĂ</button>
+                                                <button class="upfcl-btn upfcl-btn-block upfcl-btn-sm upfcl-modal-book seven_card_book" data-id="44753">REZERVĂ CU 7CARD</button>
+                                                                                <a href="#" data-params="LR5NwTQYZPU2XnTUjfHKsBjCo0gjC%2BG6WiIyYav5IwmPPNeLoFtGvvCoTPcu2zgK8%2FTeeceAl%2FDxPqM920vVRbUtKrOEaY7JDS36suONPXx563CXEoWULCWgVPgoFCDrA4M9fkNWAh0tdIDIKLq%2F7w%3D%3D" class="upfcl-btn upfcl-btn-block upfcl-btn-sm sanopass-book"  data-toggle="modal" data-target="#inbox">REZERVĂ CU SANOPASS</a>
+                                                        </div>
+                                                <div class="upfcl-class upfcl-sc-afe56c92d915e670afcd4aa389eb0750">
+                                <div class="upfcl-class-time" id="upfcl-class-time-30316"><span class="upfcl-class-start">20:00</span> - <span class="upfcl-class-end">20:50</span></div>
+                                <div class="upfcl-class-name" id="upfcl-class-name-30316">CYCLING</div>
+                                <div class="upfcl-class-trainer" id="upfcl-class-trainer-30316">CIPRIAN ROTAR</div>
+                                <div class="upfcl-class-room" id="upfcl-class-room-30316">AEROBIC STUDIO</div>
+                                <div class="upfcl-class-date" id="upfcl-class-date-30316" style="display:none">10.04.2024</div>
+                                <div class="upfcl-class-description" id="upfcl-class-description-30316" style="display:none"></div>
+                                <div class="upfcl-class-difficulty" id="upfcl-class-difficulty-30316" style="display:none"></div>
+                                <div class="upfcl-class-types" id="upfcl-class-types-30316" style="display:none"></div>
+                                <div class="upfcl-class-benefits" id="upfcl-class-benefits-30316" style="display:none"></div>
+                                                        <button class="upfcl-btn upfcl-btn-block upfcl-btn-sm upfcl-modal-book" data-id="30316">REZERVĂ</button>
+                                                <button class="upfcl-btn upfcl-btn-block upfcl-btn-sm upfcl-modal-book seven_card_book" data-id="30316">REZERVĂ CU 7CARD</button>
+                                                                                <a href="#" data-params="DQ56aBqp4pJ7wYTjmuUo4jpB93Wd5lk4ANURmrvuAOp7HcVMWZKj0u2%2B50oSEI6e2fdOlPJz1QSTRfMVIVD6BawDvVw3terhiOrCqFdY3h%2Bi3q%2FJAgW53TnIkQD2wFsY" class="upfcl-btn upfcl-btn-block upfcl-btn-sm sanopass-book"  data-toggle="modal" data-target="#inbox">REZERVĂ CU SANOPASS</a>
+                                                        </div>
+                                                <div class="upfcl-class upfcl-sc-edb64a404a639974e20ec958095ce4ac">
+                                <div class="upfcl-class-time" id="upfcl-class-time-30713"><span class="upfcl-class-start">20:00</span> - <span class="upfcl-class-end">20:50</span></div>
+                                <div class="upfcl-class-name" id="upfcl-class-name-30713">TRX YOGA</div>
+                                <div class="upfcl-class-trainer" id="upfcl-class-trainer-30713">FLAVIU LAZAR</div>
+                                <div class="upfcl-class-room" id="upfcl-class-room-30713">TRX</div>
+                                <div class="upfcl-class-date" id="upfcl-class-date-30713" style="display:none">10.04.2024</div>
+                                <div class="upfcl-class-description" id="upfcl-class-description-30713" style="display:none"></div>
+                                <div class="upfcl-class-difficulty" id="upfcl-class-difficulty-30713" style="display:none"></div>
+                                <div class="upfcl-class-types" id="upfcl-class-types-30713" style="display:none"></div>
+                                <div class="upfcl-class-benefits" id="upfcl-class-benefits-30713" style="display:none"></div>
+                                                        <button class="upfcl-btn upfcl-btn-block upfcl-btn-sm upfcl-modal-book" data-id="30713">REZERVĂ</button>
+                                                <button class="upfcl-btn upfcl-btn-block upfcl-btn-sm upfcl-modal-book seven_card_book" data-id="30713">REZERVĂ CU 7CARD</button>
+                                                                                <a href="#" data-params="LQH7halKwk7nJD2OFzjNLpy7136NBpo3s34pLjoYlqw3zRXV56P3ZmKRlTsoc4nQHs8Jyn0KjvrdAMxstpSRAx%2BzCmZoHPuzdPe7%2FtZehw3sbyYT7ETW5giFf3NbmwrY" class="upfcl-btn upfcl-btn-block upfcl-btn-sm sanopass-book"  data-toggle="modal" data-target="#inbox">REZERVĂ CU SANOPASS</a>
+                                                        </div>
+                                                            </li>
+                                    <li class="upfcl-schedule-tt">
+                            <div class="upfcl-schedule-header">
+                                <h4 class="upfcl-schedule-day">Joi</h4>
+                                <h5 class="upfcl-schedule-date">11 Aprilie</h5>
+                            </div>
+                                            <div class="upfcl-class upfcl-sc-afe56c92d915e670afcd4aa389eb0750">
+                                <div class="upfcl-class-time" id="upfcl-class-time-31110"><span class="upfcl-class-start">08:00</span> - <span class="upfcl-class-end">08:50</span></div>
+                                <div class="upfcl-class-name" id="upfcl-class-name-31110">CYCLING</div>
+                                <div class="upfcl-class-trainer" id="upfcl-class-trainer-31110">CIPRIAN ROTAR</div>
+                                <div class="upfcl-class-room" id="upfcl-class-room-31110">AEROBIC STUDIO</div>
+                                <div class="upfcl-class-date" id="upfcl-class-date-31110" style="display:none">11.04.2024</div>
+                                <div class="upfcl-class-description" id="upfcl-class-description-31110" style="display:none"></div>
+                                <div class="upfcl-class-difficulty" id="upfcl-class-difficulty-31110" style="display:none"></div>
+                                <div class="upfcl-class-types" id="upfcl-class-types-31110" style="display:none"></div>
+                                <div class="upfcl-class-benefits" id="upfcl-class-benefits-31110" style="display:none"></div>
+                                                        <button class="upfcl-btn upfcl-btn-block upfcl-btn-sm upfcl-modal-book" data-id="31110">REZERVĂ</button>
+                                                <button class="upfcl-btn upfcl-btn-block upfcl-btn-sm upfcl-modal-book seven_card_book" data-id="31110">REZERVĂ CU 7CARD</button>
+                                                                                <a href="#" data-params="ntSRWD2B5L53qw67tPm9kqg6WuSItZMrCkFSVIy1Iw0SYHsLEBGxZEg%2BATqCsosS3l6cgqnrW72dh4IVG5fQCVY%2BLIxMsh2lDA5SLRzQ5PrctVe%2BehUXeeb8BfJCEdLD" class="upfcl-btn upfcl-btn-block upfcl-btn-sm sanopass-book"  data-toggle="modal" data-target="#inbox">REZERVĂ CU SANOPASS</a>
+                                                        </div>
+                                                <div class="upfcl-class upfcl-sc-3">
+                                <div class="upfcl-class-time" id="upfcl-class-time-44433"><span class="upfcl-class-start">08:00</span> - <span class="upfcl-class-end">08:50</span></div>
+                                <div class="upfcl-class-name" id="upfcl-class-name-44433">POSTURAL</div>
+                                <div class="upfcl-class-trainer" id="upfcl-class-trainer-44433">IOANA DIOSAN</div>
+                                <div class="upfcl-class-room" id="upfcl-class-room-44433">TRX</div>
+                                <div class="upfcl-class-date" id="upfcl-class-date-44433" style="display:none">11.04.2024</div>
+                                <div class="upfcl-class-description" id="upfcl-class-description-44433" style="display:none"></div>
+                                <div class="upfcl-class-difficulty" id="upfcl-class-difficulty-44433" style="display:none"></div>
+                                <div class="upfcl-class-types" id="upfcl-class-types-44433" style="display:none"></div>
+                                <div class="upfcl-class-benefits" id="upfcl-class-benefits-44433" style="display:none"></div>
+                                                        <button class="upfcl-btn upfcl-btn-block upfcl-btn-sm upfcl-modal-book" data-id="44433">REZERVĂ</button>
+                                                <button class="upfcl-btn upfcl-btn-block upfcl-btn-sm upfcl-modal-book seven_card_book" data-id="44433">REZERVĂ CU 7CARD</button>
+                                                                                <a href="#" data-params="Nx6DZXt98l6Hk6EmpieectIdeGGU0Kl8wJbtileueAWAuAGlP%2BvVU%2FiVxk5RcjG5NYkjQPMgCQYhkMxLoSzDy%2BJu%2FAwXYHASQWiclHHVKIoI%2FQWxfke1L%2FSWtaIyTZfh" class="upfcl-btn upfcl-btn-block upfcl-btn-sm sanopass-book"  data-toggle="modal" data-target="#inbox">REZERVĂ CU SANOPASS</a>
+                                                        </div>
+                                                <div class="upfcl-class upfcl-sc-3">
+                                <div class="upfcl-class-time" id="upfcl-class-time-31493"><span class="upfcl-class-start">09:00</span> - <span class="upfcl-class-end">09:50</span></div>
+                                <div class="upfcl-class-name" id="upfcl-class-name-31493">FUNCTIONAL</div>
+                                <div class="upfcl-class-trainer" id="upfcl-class-trainer-31493">TATIANA PINTEA</div>
+                                <div class="upfcl-class-room" id="upfcl-class-room-31493">TRX</div>
+                                <div class="upfcl-class-date" id="upfcl-class-date-31493" style="display:none">11.04.2024</div>
+                                <div class="upfcl-class-description" id="upfcl-class-description-31493" style="display:none"></div>
+                                <div class="upfcl-class-difficulty" id="upfcl-class-difficulty-31493" style="display:none"></div>
+                                <div class="upfcl-class-types" id="upfcl-class-types-31493" style="display:none"></div>
+                                <div class="upfcl-class-benefits" id="upfcl-class-benefits-31493" style="display:none"></div>
+                                                        <button class="upfcl-btn upfcl-btn-block upfcl-btn-sm upfcl-modal-book" data-id="31493">REZERVĂ</button>
+                                                <button class="upfcl-btn upfcl-btn-block upfcl-btn-sm upfcl-modal-book seven_card_book" data-id="31493">REZERVĂ CU 7CARD</button>
+                                                                                <a href="#" data-params="Q%2FCILRdS3VksHNhwz74gDzdob2HSvz9aRjX9URwKLa6jax%2FMZwDy9sUHOSvKnzP3CMT4wyx2H%2FJyADeTqcqwAGT7sh4l85d7wQjhsdqsTg7qKqW5h6GMr1mLdhwbTdaN" class="upfcl-btn upfcl-btn-block upfcl-btn-sm sanopass-book"  data-toggle="modal" data-target="#inbox">REZERVĂ CU SANOPASS</a>
+                                                        </div>
+                                                <div class="upfcl-class upfcl-sc-fdb6da6c369d456f6f1c12bcb1fec8a2">
+                                <div class="upfcl-class-time" id="upfcl-class-time-31859"><span class="upfcl-class-start">09:00</span> - <span class="upfcl-class-end">09:50</span></div>
+                                <div class="upfcl-class-name" id="upfcl-class-name-31859">PILATES</div>
+                                <div class="upfcl-class-trainer" id="upfcl-class-trainer-31859">MELINDA FERENCZI</div>
+                                <div class="upfcl-class-room" id="upfcl-class-room-31859">AEROBIC STUDIO</div>
+                                <div class="upfcl-class-date" id="upfcl-class-date-31859" style="display:none">11.04.2024</div>
+                                <div class="upfcl-class-description" id="upfcl-class-description-31859" style="display:none"></div>
+                                <div class="upfcl-class-difficulty" id="upfcl-class-difficulty-31859" style="display:none"></div>
+                                <div class="upfcl-class-types" id="upfcl-class-types-31859" style="display:none"></div>
+                                <div class="upfcl-class-benefits" id="upfcl-class-benefits-31859" style="display:none"></div>
+                                                        <button class="upfcl-btn upfcl-btn-block upfcl-btn-sm upfcl-modal-book" data-id="31859">REZERVĂ</button>
+                                                <button class="upfcl-btn upfcl-btn-block upfcl-btn-sm upfcl-modal-book seven_card_book" data-id="31859">REZERVĂ CU 7CARD</button>
+                                                                                <a href="#" data-params="WPBJyacPCtIvtq8YqgAuK5Mi56B2%2B%2F6HMJAnCOyPydyEP2QcxU1K0wGt%2BgoVkCDq7mYUvsS2DrJenRECewA8oagn862HIxWmsABH8xF8OQ6VaUlSCtDA9V5l2X4yQXra" class="upfcl-btn upfcl-btn-block upfcl-btn-sm sanopass-book"  data-toggle="modal" data-target="#inbox">REZERVĂ CU SANOPASS</a>
+                                                        </div>
+                                                <div class="upfcl-class upfcl-sc-3">
+                                <div class="upfcl-class-time" id="upfcl-class-time-34447"><span class="upfcl-class-start">18:00</span> - <span class="upfcl-class-end">18:50</span></div>
+                                <div class="upfcl-class-name" id="upfcl-class-name-34447">BODY PUMP</div>
+                                <div class="upfcl-class-trainer" id="upfcl-class-trainer-34447">CIPRIAN ROTAR</div>
+                                <div class="upfcl-class-room" id="upfcl-class-room-34447">AEROBIC STUDIO</div>
+                                <div class="upfcl-class-date" id="upfcl-class-date-34447" style="display:none">11.04.2024</div>
+                                <div class="upfcl-class-description" id="upfcl-class-description-34447" style="display:none"></div>
+                                <div class="upfcl-class-difficulty" id="upfcl-class-difficulty-34447" style="display:none"></div>
+                                <div class="upfcl-class-types" id="upfcl-class-types-34447" style="display:none"></div>
+                                <div class="upfcl-class-benefits" id="upfcl-class-benefits-34447" style="display:none"></div>
+                                                        <button class="upfcl-btn upfcl-btn-block upfcl-btn-sm upfcl-modal-book" data-id="34447">REZERVĂ</button>
+                                                <button class="upfcl-btn upfcl-btn-block upfcl-btn-sm upfcl-modal-book seven_card_book" data-id="34447">REZERVĂ CU 7CARD</button>
+                                                                                <a href="#" data-params="T51qZrtLUS3EaT8GqDz%2B0iQeFVbgnXsjtOz40qXL1MpeYDIM%2B3fDK8sxQGF%2FpPiiYxfQ%2BWHuoSZ5qRAwy%2B6mDBo54QMBTkXQDbKwiQfjBC58zAnTBd0g7i8hYRRcmdCz" class="upfcl-btn upfcl-btn-block upfcl-btn-sm sanopass-book"  data-toggle="modal" data-target="#inbox">REZERVĂ CU SANOPASS</a>
+                                                        </div>
+                                                <div class="upfcl-class upfcl-sc-3">
+                                <div class="upfcl-class-time" id="upfcl-class-time-44248"><span class="upfcl-class-start">18:00</span> - <span class="upfcl-class-end">18:30</span></div>
+                                <div class="upfcl-class-name" id="upfcl-class-name-44248">HIGH INTENSITY INTERVALS</div>
+                                <div class="upfcl-class-trainer" id="upfcl-class-trainer-44248">STEFANIA MORARU</div>
+                                <div class="upfcl-class-room" id="upfcl-class-room-44248">TRX</div>
+                                <div class="upfcl-class-date" id="upfcl-class-date-44248" style="display:none">11.04.2024</div>
+                                <div class="upfcl-class-description" id="upfcl-class-description-44248" style="display:none"></div>
+                                <div class="upfcl-class-difficulty" id="upfcl-class-difficulty-44248" style="display:none"></div>
+                                <div class="upfcl-class-types" id="upfcl-class-types-44248" style="display:none"></div>
+                                <div class="upfcl-class-benefits" id="upfcl-class-benefits-44248" style="display:none"></div>
+                                                        <button class="upfcl-btn upfcl-btn-block upfcl-btn-sm upfcl-modal-book" data-id="44248">REZERVĂ</button>
+                                                <button class="upfcl-btn upfcl-btn-block upfcl-btn-sm upfcl-modal-book seven_card_book" data-id="44248">REZERVĂ CU 7CARD</button>
+                                                                                <a href="#" data-params="c2FK%2FPF%2Bj1gcYex9uA%2FHE6tPbM50z0mi7Q5SasbfyZplU4YSPFFa1zGXphKwV1MAy5UF8ow%2Bbbz52dGp0vKxUL4%2B9z2yA55BkgMX0cjoPHKE%2F%2FzHUA6zsj%2BPKtxX5mpWywBym8Gn053CLhp9es9nWg%3D%3D" class="upfcl-btn upfcl-btn-block upfcl-btn-sm sanopass-book"  data-toggle="modal" data-target="#inbox">REZERVĂ CU SANOPASS</a>
+                                                        </div>
+                                                <div class="upfcl-class upfcl-sc-522f694f92e679d874a1cc2b2616c3d7">
+                                <div class="upfcl-class-time" id="upfcl-class-time-33653"><span class="upfcl-class-start">19:00</span> - <span class="upfcl-class-end">19:50</span></div>
+                                <div class="upfcl-class-name" id="upfcl-class-name-33653">STEP</div>
+                                <div class="upfcl-class-trainer" id="upfcl-class-trainer-33653">MELINDA FERENCZI</div>
+                                <div class="upfcl-class-room" id="upfcl-class-room-33653">AEROBIC STUDIO</div>
+                                <div class="upfcl-class-date" id="upfcl-class-date-33653" style="display:none">11.04.2024</div>
+                                <div class="upfcl-class-description" id="upfcl-class-description-33653" style="display:none"></div>
+                                <div class="upfcl-class-difficulty" id="upfcl-class-difficulty-33653" style="display:none"></div>
+                                <div class="upfcl-class-types" id="upfcl-class-types-33653" style="display:none"></div>
+                                <div class="upfcl-class-benefits" id="upfcl-class-benefits-33653" style="display:none"></div>
+                                                        <button class="upfcl-btn upfcl-btn-block upfcl-btn-sm upfcl-modal-book" data-id="33653">REZERVĂ</button>
+                                                <button class="upfcl-btn upfcl-btn-block upfcl-btn-sm upfcl-modal-book seven_card_book" data-id="33653">REZERVĂ CU 7CARD</button>
+                                                                                <a href="#" data-params="kQtX71Uje4VPcPbSlDbQqajq%2F7I9Zp%2FdSliAKhq8SSWFeir0EQ8MZq%2Fj%2FBdp%2B8KflFN5%2BeAS%2FT7rn46Vss8%2BeJvi6a3IJR1bzWeNgnyCzwzoXRVsk3hzUgelVfXSpEEd" class="upfcl-btn upfcl-btn-block upfcl-btn-sm sanopass-book"  data-toggle="modal" data-target="#inbox">REZERVĂ CU SANOPASS</a>
+                                                        </div>
+                                                <div class="upfcl-class upfcl-sc-364e6beb127ef9ae8d1cdf6c1d5699b7">
+                                <div class="upfcl-class-time" id="upfcl-class-time-34050"><span class="upfcl-class-start">19:00</span> - <span class="upfcl-class-end">19:50</span></div>
+                                <div class="upfcl-class-name" id="upfcl-class-name-34050">TRX</div>
+                                <div class="upfcl-class-trainer" id="upfcl-class-trainer-34050">FLAVIU LAZAR</div>
+                                <div class="upfcl-class-room" id="upfcl-class-room-34050">TRX</div>
+                                <div class="upfcl-class-date" id="upfcl-class-date-34050" style="display:none">11.04.2024</div>
+                                <div class="upfcl-class-description" id="upfcl-class-description-34050" style="display:none"></div>
+                                <div class="upfcl-class-difficulty" id="upfcl-class-difficulty-34050" style="display:none"></div>
+                                <div class="upfcl-class-types" id="upfcl-class-types-34050" style="display:none"></div>
+                                <div class="upfcl-class-benefits" id="upfcl-class-benefits-34050" style="display:none"></div>
+                                                        <button class="upfcl-btn upfcl-btn-block upfcl-btn-sm upfcl-modal-book" data-id="34050">REZERVĂ</button>
+                                                <button class="upfcl-btn upfcl-btn-block upfcl-btn-sm upfcl-modal-book seven_card_book" data-id="34050">REZERVĂ CU 7CARD</button>
+                                                                                <a href="#" data-params="Y4%2BTcojghwVZerwhg8paCWtZdsGdHkkod%2FcQ425jntoekKpJ5jUYCI8frB16tKc6IaA%2FDsdGjewXcRGoN3p1NlqexnFnNZgiE9X2hUbweLLeCz7zqghwRVr1q1ZwzQAA" class="upfcl-btn upfcl-btn-block upfcl-btn-sm sanopass-book"  data-toggle="modal" data-target="#inbox">REZERVĂ CU SANOPASS</a>
+                                                        </div>
+                                                <div class="upfcl-class upfcl-sc-726df3ccc4f0ee54d68fcd87e4f1619e">
+                                <div class="upfcl-class-time" id="upfcl-class-time-34844"><span class="upfcl-class-start">20:00</span> - <span class="upfcl-class-end">20:50</span></div>
+                                <div class="upfcl-class-name" id="upfcl-class-name-34844">TRX INCEPATORI</div>
+                                <div class="upfcl-class-trainer" id="upfcl-class-trainer-34844">FLAVIU LAZAR</div>
+                                <div class="upfcl-class-room" id="upfcl-class-room-34844">TRX</div>
+                                <div class="upfcl-class-date" id="upfcl-class-date-34844" style="display:none">11.04.2024</div>
+                                <div class="upfcl-class-description" id="upfcl-class-description-34844" style="display:none"></div>
+                                <div class="upfcl-class-difficulty" id="upfcl-class-difficulty-34844" style="display:none"></div>
+                                <div class="upfcl-class-types" id="upfcl-class-types-34844" style="display:none"></div>
+                                <div class="upfcl-class-benefits" id="upfcl-class-benefits-34844" style="display:none"></div>
+                                                        <button class="upfcl-btn upfcl-btn-block upfcl-btn-sm upfcl-modal-book" data-id="34844">REZERVĂ</button>
+                                                <button class="upfcl-btn upfcl-btn-block upfcl-btn-sm upfcl-modal-book seven_card_book" data-id="34844">REZERVĂ CU 7CARD</button>
+                                                                                <a href="#" data-params="jUVBGiNtT5i6SR939Dsd1hCZHbF%2BfCkLmUfZDBkK0HiRXl%2B5%2BpTnYjPBlRTAlz%2Bnw5aBZ1n7JuHx%2FkNlv8tba97Xp%2BfQPB%2Bkz8zOro5zK0x7YiksG1Qf3VrfZquOGGjMrOaPfGO6QbcTJI7itlS4Xw%3D%3D" class="upfcl-btn upfcl-btn-block upfcl-btn-sm sanopass-book"  data-toggle="modal" data-target="#inbox">REZERVĂ CU SANOPASS</a>
+                                                        </div>
+                                                <div class="upfcl-class upfcl-sc-fdb6da6c369d456f6f1c12bcb1fec8a2">
+                                <div class="upfcl-class-time" id="upfcl-class-time-35241"><span class="upfcl-class-start">20:00</span> - <span class="upfcl-class-end">20:50</span></div>
+                                <div class="upfcl-class-name" id="upfcl-class-name-35241">PILATES</div>
+                                <div class="upfcl-class-trainer" id="upfcl-class-trainer-35241">MELINDA FERENCZI</div>
+                                <div class="upfcl-class-room" id="upfcl-class-room-35241">AEROBIC STUDIO</div>
+                                <div class="upfcl-class-date" id="upfcl-class-date-35241" style="display:none">11.04.2024</div>
+                                <div class="upfcl-class-description" id="upfcl-class-description-35241" style="display:none"></div>
+                                <div class="upfcl-class-difficulty" id="upfcl-class-difficulty-35241" style="display:none"></div>
+                                <div class="upfcl-class-types" id="upfcl-class-types-35241" style="display:none"></div>
+                                <div class="upfcl-class-benefits" id="upfcl-class-benefits-35241" style="display:none"></div>
+                                                        <button class="upfcl-btn upfcl-btn-block upfcl-btn-sm upfcl-modal-book" data-id="35241">REZERVĂ</button>
+                                                <button class="upfcl-btn upfcl-btn-block upfcl-btn-sm upfcl-modal-book seven_card_book" data-id="35241">REZERVĂ CU 7CARD</button>
+                                                                                <a href="#" data-params="pCByIzT0qFU8OlUS88FwCmR%2B%2F7uWGnHET7GbpDgzSSSLwYSAl%2B77ioBRYTCZ8t5ITx5JtWyGqIWBJJElvhGAyimTwq%2B5Qi9wPylL8q%2B50qokj1TfwGE%2BQ8p9PcXb9XXM" class="upfcl-btn upfcl-btn-block upfcl-btn-sm sanopass-book"  data-toggle="modal" data-target="#inbox">REZERVĂ CU SANOPASS</a>
+                                                        </div>
+                                                <div class="upfcl-class upfcl-sc-e657cce1913c857166b0475f18668ef5">
+                                <div class="upfcl-class-time" id="upfcl-class-time-42936"><span class="upfcl-class-start">20:00</span> - <span class="upfcl-class-end">20:50</span></div>
+                                <div class="upfcl-class-name" id="upfcl-class-name-42936">BOX</div>
+                                <div class="upfcl-class-trainer" id="upfcl-class-trainer-42936">TITI TITI</div>
+                                <div class="upfcl-class-room" id="upfcl-class-room-42936">CYCLING STUDIO</div>
+                                <div class="upfcl-class-date" id="upfcl-class-date-42936" style="display:none">11.04.2024</div>
+                                <div class="upfcl-class-description" id="upfcl-class-description-42936" style="display:none"></div>
+                                <div class="upfcl-class-difficulty" id="upfcl-class-difficulty-42936" style="display:none"></div>
+                                <div class="upfcl-class-types" id="upfcl-class-types-42936" style="display:none"></div>
+                                <div class="upfcl-class-benefits" id="upfcl-class-benefits-42936" style="display:none"></div>
+                                                        <button class="upfcl-btn upfcl-btn-block upfcl-btn-sm upfcl-modal-book" data-id="42936">REZERVĂ</button>
+                                                <button class="upfcl-btn upfcl-btn-block upfcl-btn-sm upfcl-modal-book seven_card_book" data-id="42936">REZERVĂ CU 7CARD</button>
+                                                                                <a href="#" data-params="ppYAbsCAz9k3KSPqmo5fpnb6MLzXAcrAviKoPq%2FMcUCShUHB0n%2FUK7Qsl9IpvhDAeheRMCKjXOgtIg7YrYQb%2FBG22m7zacq6%2B8Wm0%2BIQJppmPpMCPS8A2%2FIXukc8CcyG" class="upfcl-btn upfcl-btn-block upfcl-btn-sm sanopass-book"  data-toggle="modal" data-target="#inbox">REZERVĂ CU SANOPASS</a>
+                                                        </div>
+                                                            </li>
+                                    <li class="upfcl-schedule-tt">
+                            <div class="upfcl-schedule-header">
+                                <h4 class="upfcl-schedule-day">Vineri</h4>
+                                <h5 class="upfcl-schedule-date">12 Aprilie</h5>
+                            </div>
+                                            <div class="upfcl-class upfcl-sc-3">
+                                <div class="upfcl-class-time" id="upfcl-class-time-36035"><span class="upfcl-class-start">08:00</span> - <span class="upfcl-class-end">08:50</span></div>
+                                <div class="upfcl-class-name" id="upfcl-class-name-36035">BODY PUMP</div>
+                                <div class="upfcl-class-trainer" id="upfcl-class-trainer-36035">TATIANA PINTEA</div>
+                                <div class="upfcl-class-room" id="upfcl-class-room-36035">AEROBIC STUDIO</div>
+                                <div class="upfcl-class-date" id="upfcl-class-date-36035" style="display:none">12.04.2024</div>
+                                <div class="upfcl-class-description" id="upfcl-class-description-36035" style="display:none"></div>
+                                <div class="upfcl-class-difficulty" id="upfcl-class-difficulty-36035" style="display:none"></div>
+                                <div class="upfcl-class-types" id="upfcl-class-types-36035" style="display:none"></div>
+                                <div class="upfcl-class-benefits" id="upfcl-class-benefits-36035" style="display:none"></div>
+                                                    </div>
+                                                <div class="upfcl-class upfcl-sc-364e6beb127ef9ae8d1cdf6c1d5699b7">
+                                <div class="upfcl-class-time" id="upfcl-class-time-36432"><span class="upfcl-class-start">09:00</span> - <span class="upfcl-class-end">09:50</span></div>
+                                <div class="upfcl-class-name" id="upfcl-class-name-36432">TRX</div>
+                                <div class="upfcl-class-trainer" id="upfcl-class-trainer-36432">FLAVIU LAZAR</div>
+                                <div class="upfcl-class-room" id="upfcl-class-room-36432">TRX</div>
+                                <div class="upfcl-class-date" id="upfcl-class-date-36432" style="display:none">12.04.2024</div>
+                                <div class="upfcl-class-description" id="upfcl-class-description-36432" style="display:none"></div>
+                                <div class="upfcl-class-difficulty" id="upfcl-class-difficulty-36432" style="display:none"></div>
+                                <div class="upfcl-class-types" id="upfcl-class-types-36432" style="display:none"></div>
+                                <div class="upfcl-class-benefits" id="upfcl-class-benefits-36432" style="display:none"></div>
+                                                    </div>
+                                                <div class="upfcl-class upfcl-sc-fdb6da6c369d456f6f1c12bcb1fec8a2">
+                                <div class="upfcl-class-time" id="upfcl-class-time-36829"><span class="upfcl-class-start">09:00</span> - <span class="upfcl-class-end">09:50</span></div>
+                                <div class="upfcl-class-name" id="upfcl-class-name-36829">PILATES</div>
+                                <div class="upfcl-class-trainer" id="upfcl-class-trainer-36829">MELINDA FERENCZI</div>
+                                <div class="upfcl-class-room" id="upfcl-class-room-36829">AEROBIC STUDIO</div>
+                                <div class="upfcl-class-date" id="upfcl-class-date-36829" style="display:none">12.04.2024</div>
+                                <div class="upfcl-class-description" id="upfcl-class-description-36829" style="display:none"></div>
+                                <div class="upfcl-class-difficulty" id="upfcl-class-difficulty-36829" style="display:none"></div>
+                                <div class="upfcl-class-types" id="upfcl-class-types-36829" style="display:none"></div>
+                                <div class="upfcl-class-benefits" id="upfcl-class-benefits-36829" style="display:none"></div>
+                                                    </div>
+                                                <div class="upfcl-class upfcl-sc-10">
+                                <div class="upfcl-class-time" id="upfcl-class-time-37623"><span class="upfcl-class-start">16:45</span> - <span class="upfcl-class-end">17:35</span></div>
+                                <div class="upfcl-class-name" id="upfcl-class-name-37623">TAEKWONDO</div>
+                                <div class="upfcl-class-trainer" id="upfcl-class-trainer-37623">ALEXANDRU MURESAN</div>
+                                <div class="upfcl-class-room" id="upfcl-class-room-37623">AEROBIC STUDIO</div>
+                                <div class="upfcl-class-date" id="upfcl-class-date-37623" style="display:none">12.04.2024</div>
+                                <div class="upfcl-class-description" id="upfcl-class-description-37623" style="display:none">Accesul permis copiilor</div>
+                                <div class="upfcl-class-difficulty" id="upfcl-class-difficulty-37623" style="display:none"></div>
+                                <div class="upfcl-class-types" id="upfcl-class-types-37623" style="display:none"></div>
+                                <div class="upfcl-class-benefits" id="upfcl-class-benefits-37623" style="display:none"></div>
+                                                    </div>
+                                                <div class="upfcl-class upfcl-sc-10">
+                                <div class="upfcl-class-time" id="upfcl-class-time-44532"><span class="upfcl-class-start">17:00</span> - <span class="upfcl-class-end">17:50</span></div>
+                                <div class="upfcl-class-name" id="upfcl-class-name-44532">FUNCTIONAL KIDS</div>
+                                <div class="upfcl-class-trainer" id="upfcl-class-trainer-44532">FLAVIU LAZAR</div>
+                                <div class="upfcl-class-room" id="upfcl-class-room-44532">TRX</div>
+                                <div class="upfcl-class-date" id="upfcl-class-date-44532" style="display:none">12.04.2024</div>
+                                <div class="upfcl-class-description" id="upfcl-class-description-44532" style="display:none"></div>
+                                <div class="upfcl-class-difficulty" id="upfcl-class-difficulty-44532" style="display:none"></div>
+                                <div class="upfcl-class-types" id="upfcl-class-types-44532" style="display:none"></div>
+                                <div class="upfcl-class-benefits" id="upfcl-class-benefits-44532" style="display:none"></div>
+                                                    </div>
+                                                <div class="upfcl-class upfcl-sc-c834ef0413cb062aada2a56e769d63d1">
+                                <div class="upfcl-class-time" id="upfcl-class-time-2829"><span class="upfcl-class-start">18:00</span> - <span class="upfcl-class-end">18:50</span></div>
+                                <div class="upfcl-class-name" id="upfcl-class-name-2829">BUTT&amp;ABS</div>
+                                <div class="upfcl-class-trainer" id="upfcl-class-trainer-2829">TATIANA PINTEA</div>
+                                <div class="upfcl-class-room" id="upfcl-class-room-2829">TRX</div>
+                                <div class="upfcl-class-date" id="upfcl-class-date-2829" style="display:none">12.04.2024</div>
+                                <div class="upfcl-class-description" id="upfcl-class-description-2829" style="display:none"></div>
+                                <div class="upfcl-class-difficulty" id="upfcl-class-difficulty-2829" style="display:none"></div>
+                                <div class="upfcl-class-types" id="upfcl-class-types-2829" style="display:none"></div>
+                                <div class="upfcl-class-benefits" id="upfcl-class-benefits-2829" style="display:none"></div>
+                                                    </div>
+                                                <div class="upfcl-class upfcl-sc-d78c194f900b48bf99f4531f613ec037">
+                                <div class="upfcl-class-time" id="upfcl-class-time-39751"><span class="upfcl-class-start">18:00</span> - <span class="upfcl-class-end">18:50</span></div>
+                                <div class="upfcl-class-name" id="upfcl-class-name-39751">FULL BODY CIRCUIT</div>
+                                <div class="upfcl-class-trainer" id="upfcl-class-trainer-39751">MELINDA FERENCZI</div>
+                                <div class="upfcl-class-room" id="upfcl-class-room-39751">AEROBIC STUDIO</div>
+                                <div class="upfcl-class-date" id="upfcl-class-date-39751" style="display:none">12.04.2024</div>
+                                <div class="upfcl-class-description" id="upfcl-class-description-39751" style="display:none"></div>
+                                <div class="upfcl-class-difficulty" id="upfcl-class-difficulty-39751" style="display:none"></div>
+                                <div class="upfcl-class-types" id="upfcl-class-types-39751" style="display:none"></div>
+                                <div class="upfcl-class-benefits" id="upfcl-class-benefits-39751" style="display:none"></div>
+                                                    </div>
+                                                <div class="upfcl-class upfcl-sc-afe56c92d915e670afcd4aa389eb0750">
+                                <div class="upfcl-class-time" id="upfcl-class-time-38957"><span class="upfcl-class-start">19:00</span> - <span class="upfcl-class-end">19:50</span></div>
+                                <div class="upfcl-class-name" id="upfcl-class-name-38957">CYCLING</div>
+                                <div class="upfcl-class-trainer" id="upfcl-class-trainer-38957">CIPRIAN ROTAR</div>
+                                <div class="upfcl-class-room" id="upfcl-class-room-38957">AEROBIC STUDIO</div>
+                                <div class="upfcl-class-date" id="upfcl-class-date-38957" style="display:none">12.04.2024</div>
+                                <div class="upfcl-class-description" id="upfcl-class-description-38957" style="display:none"></div>
+                                <div class="upfcl-class-difficulty" id="upfcl-class-difficulty-38957" style="display:none"></div>
+                                <div class="upfcl-class-types" id="upfcl-class-types-38957" style="display:none"></div>
+                                <div class="upfcl-class-benefits" id="upfcl-class-benefits-38957" style="display:none"></div>
+                                                    </div>
+                                                <div class="upfcl-class upfcl-sc-b42a4aa258c3831364383a02dfa54fcd">
+                                <div class="upfcl-class-time" id="upfcl-class-time-39354"><span class="upfcl-class-start">19:00</span> - <span class="upfcl-class-end">19:50</span></div>
+                                <div class="upfcl-class-name" id="upfcl-class-name-39354">TRX INTERMEDIARI</div>
+                                <div class="upfcl-class-trainer" id="upfcl-class-trainer-39354">FLAVIU LAZAR</div>
+                                <div class="upfcl-class-room" id="upfcl-class-room-39354">TRX</div>
+                                <div class="upfcl-class-date" id="upfcl-class-date-39354" style="display:none">12.04.2024</div>
+                                <div class="upfcl-class-description" id="upfcl-class-description-39354" style="display:none"></div>
+                                <div class="upfcl-class-difficulty" id="upfcl-class-difficulty-39354" style="display:none"></div>
+                                <div class="upfcl-class-types" id="upfcl-class-types-39354" style="display:none"></div>
+                                <div class="upfcl-class-benefits" id="upfcl-class-benefits-39354" style="display:none"></div>
+                                                    </div>
+                                                <div class="upfcl-class upfcl-sc-1a41f13702ddf844a28d6ed9befbfbf5">
+                                <div class="upfcl-class-time" id="upfcl-class-time-43100"><span class="upfcl-class-start">20:00</span> - <span class="upfcl-class-end">20:50</span></div>
+                                <div class="upfcl-class-name" id="upfcl-class-name-43100">ABS &amp; STRETCH</div>
+                                <div class="upfcl-class-trainer" id="upfcl-class-trainer-43100">CIPRIAN ROTAR</div>
+                                <div class="upfcl-class-room" id="upfcl-class-room-43100">AEROBIC STUDIO</div>
+                                <div class="upfcl-class-date" id="upfcl-class-date-43100" style="display:none">12.04.2024</div>
+                                <div class="upfcl-class-description" id="upfcl-class-description-43100" style="display:none"></div>
+                                <div class="upfcl-class-difficulty" id="upfcl-class-difficulty-43100" style="display:none"></div>
+                                <div class="upfcl-class-types" id="upfcl-class-types-43100" style="display:none"></div>
+                                <div class="upfcl-class-benefits" id="upfcl-class-benefits-43100" style="display:none"></div>
+                                                    </div>
+                                                            </li>
+                                    <li class="upfcl-schedule-tt">
+                            <div class="upfcl-schedule-header">
+                                <h4 class="upfcl-schedule-day">Sâmbătă</h4>
+                                <h5 class="upfcl-schedule-date">13 Aprilie</h5>
+                            </div>
+                                            <div class="upfcl-class upfcl-sc-8c0ecdfd65541693490ee899fe659e08">
+                                <div class="upfcl-class-time" id="upfcl-class-time-40943"><span class="upfcl-class-start">09:00</span> - <span class="upfcl-class-end">09:50</span></div>
+                                <div class="upfcl-class-name" id="upfcl-class-name-40943">TRX RIP</div>
+                                <div class="upfcl-class-trainer" id="upfcl-class-trainer-40943">FLAVIU LAZAR</div>
+                                <div class="upfcl-class-room" id="upfcl-class-room-40943">TRX</div>
+                                <div class="upfcl-class-date" id="upfcl-class-date-40943" style="display:none">13.04.2024</div>
+                                <div class="upfcl-class-description" id="upfcl-class-description-40943" style="display:none"></div>
+                                <div class="upfcl-class-difficulty" id="upfcl-class-difficulty-40943" style="display:none"></div>
+                                <div class="upfcl-class-types" id="upfcl-class-types-40943" style="display:none"></div>
+                                <div class="upfcl-class-benefits" id="upfcl-class-benefits-40943" style="display:none"></div>
+                                                    </div>
+                                                <div class="upfcl-class upfcl-sc-3">
+                                <div class="upfcl-class-time" id="upfcl-class-time-41341"><span class="upfcl-class-start">09:00</span> - <span class="upfcl-class-end">09:50</span></div>
+                                <div class="upfcl-class-name" id="upfcl-class-name-41341">BODY PUMP</div>
+                                <div class="upfcl-class-trainer" id="upfcl-class-trainer-41341">TATIANA PINTEA, CIPRIAN ROTAR</div>
+                                <div class="upfcl-class-room" id="upfcl-class-room-41341">AEROBIC STUDIO</div>
+                                <div class="upfcl-class-date" id="upfcl-class-date-41341" style="display:none">13.04.2024</div>
+                                <div class="upfcl-class-description" id="upfcl-class-description-41341" style="display:none"></div>
+                                <div class="upfcl-class-difficulty" id="upfcl-class-difficulty-41341" style="display:none"></div>
+                                <div class="upfcl-class-types" id="upfcl-class-types-41341" style="display:none"></div>
+                                <div class="upfcl-class-benefits" id="upfcl-class-benefits-41341" style="display:none"></div>
+                                                    </div>
+                                                <div class="upfcl-class upfcl-sc-364e6beb127ef9ae8d1cdf6c1d5699b7">
+                                <div class="upfcl-class-time" id="upfcl-class-time-41739"><span class="upfcl-class-start">10:00</span> - <span class="upfcl-class-end">10:50</span></div>
+                                <div class="upfcl-class-name" id="upfcl-class-name-41739">TRX</div>
+                                <div class="upfcl-class-trainer" id="upfcl-class-trainer-41739">FLAVIU LAZAR</div>
+                                <div class="upfcl-class-room" id="upfcl-class-room-41739">TRX</div>
+                                <div class="upfcl-class-date" id="upfcl-class-date-41739" style="display:none">13.04.2024</div>
+                                <div class="upfcl-class-description" id="upfcl-class-description-41739" style="display:none"></div>
+                                <div class="upfcl-class-difficulty" id="upfcl-class-difficulty-41739" style="display:none"></div>
+                                <div class="upfcl-class-types" id="upfcl-class-types-41739" style="display:none"></div>
+                                <div class="upfcl-class-benefits" id="upfcl-class-benefits-41739" style="display:none"></div>
+                                                    </div>
+                                                <div class="upfcl-class upfcl-sc-afe56c92d915e670afcd4aa389eb0750">
+                                <div class="upfcl-class-time" id="upfcl-class-time-42137"><span class="upfcl-class-start">10:00</span> - <span class="upfcl-class-end">10:50</span></div>
+                                <div class="upfcl-class-name" id="upfcl-class-name-42137">CYCLING</div>
+                                <div class="upfcl-class-trainer" id="upfcl-class-trainer-42137">TATIANA PINTEA</div>
+                                <div class="upfcl-class-room" id="upfcl-class-room-42137">AEROBIC STUDIO</div>
+                                <div class="upfcl-class-date" id="upfcl-class-date-42137" style="display:none">13.04.2024</div>
+                                <div class="upfcl-class-description" id="upfcl-class-description-42137" style="display:none"></div>
+                                <div class="upfcl-class-difficulty" id="upfcl-class-difficulty-42137" style="display:none"></div>
+                                <div class="upfcl-class-types" id="upfcl-class-types-42137" style="display:none"></div>
+                                <div class="upfcl-class-benefits" id="upfcl-class-benefits-42137" style="display:none"></div>
+                                                    </div>
+                                                <div class="upfcl-class upfcl-sc-1a41f13702ddf844a28d6ed9befbfbf5">
+                                <div class="upfcl-class-time" id="upfcl-class-time-42535"><span class="upfcl-class-start">11:00</span> - <span class="upfcl-class-end">11:50</span></div>
+                                <div class="upfcl-class-name" id="upfcl-class-name-42535">ABS &amp; STRETCH</div>
+                                <div class="upfcl-class-trainer" id="upfcl-class-trainer-42535">CIPRIAN ROTAR</div>
+                                <div class="upfcl-class-room" id="upfcl-class-room-42535">CYCLING STUDIO</div>
+                                <div class="upfcl-class-date" id="upfcl-class-date-42535" style="display:none">13.04.2024</div>
+                                <div class="upfcl-class-description" id="upfcl-class-description-42535" style="display:none"></div>
+                                <div class="upfcl-class-difficulty" id="upfcl-class-difficulty-42535" style="display:none"></div>
+                                <div class="upfcl-class-types" id="upfcl-class-types-42535" style="display:none"></div>
+                                <div class="upfcl-class-benefits" id="upfcl-class-benefits-42535" style="display:none"></div>
+                                                    </div>
+                                                            </li>
+                                    <li class="upfcl-schedule-tt">
+                            <div class="upfcl-schedule-header">
+                                <h4 class="upfcl-schedule-day">Duminică</h4>
+                                <h5 class="upfcl-schedule-date">14 Aprilie</h5>
+                            </div>
+                                            <div class="upfcl-class upfcl-sc-f5d28e36a6d8c3342613a2411db1f9a0">
+                                <div class="upfcl-class-time" id="upfcl-class-time-44937"><span class="upfcl-class-start">12:00</span> - <span class="upfcl-class-end">12:50</span></div>
+                                <div class="upfcl-class-name" id="upfcl-class-name-44937">YOGA</div>
+                                <div class="upfcl-class-trainer" id="upfcl-class-trainer-44937">DAVID LILA</div>
+                                <div class="upfcl-class-room" id="upfcl-class-room-44937">AEROBIC STUDIO</div>
+                                <div class="upfcl-class-date" id="upfcl-class-date-44937" style="display:none">14.04.2024</div>
+                                <div class="upfcl-class-description" id="upfcl-class-description-44937" style="display:none"></div>
+                                <div class="upfcl-class-difficulty" id="upfcl-class-difficulty-44937" style="display:none"></div>
+                                <div class="upfcl-class-types" id="upfcl-class-types-44937" style="display:none"></div>
+                                <div class="upfcl-class-benefits" id="upfcl-class-benefits-44937" style="display:none"></div>
+                                                    </div>
+                                                            </li>
+                                    <li class="upfcl-schedule-tt">
+                            <div class="upfcl-schedule-header">
+                                <h4 class="upfcl-schedule-day">Luni</h4>
+                                <h5 class="upfcl-schedule-date">15 Aprilie</h5>
+                            </div>
+                                            <div class="upfcl-class upfcl-sc-3">
+                                <div class="upfcl-class-time" id="upfcl-class-time-645"><span class="upfcl-class-start">08:00</span> - <span class="upfcl-class-end">08:50</span></div>
+                                <div class="upfcl-class-name" id="upfcl-class-name-645">BODY PUMP</div>
+                                <div class="upfcl-class-trainer" id="upfcl-class-trainer-645">TATIANA PINTEA</div>
+                                <div class="upfcl-class-room" id="upfcl-class-room-645">AEROBIC STUDIO</div>
+                                <div class="upfcl-class-date" id="upfcl-class-date-645" style="display:none">15.04.2024</div>
+                                <div class="upfcl-class-description" id="upfcl-class-description-645" style="display:none"></div>
+                                <div class="upfcl-class-difficulty" id="upfcl-class-difficulty-645" style="display:none"></div>
+                                <div class="upfcl-class-types" id="upfcl-class-types-645" style="display:none"></div>
+                                <div class="upfcl-class-benefits" id="upfcl-class-benefits-645" style="display:none"></div>
+                                                    </div>
+                                                <div class="upfcl-class upfcl-sc-3">
+                                <div class="upfcl-class-time" id="upfcl-class-time-252"><span class="upfcl-class-start">09:00</span> - <span class="upfcl-class-end">09:50</span></div>
+                                <div class="upfcl-class-name" id="upfcl-class-name-252">STRENGTH &amp; CARDIO</div>
+                                <div class="upfcl-class-trainer" id="upfcl-class-trainer-252">STEFANIA MORARU, TATIANA PINTEA</div>
+                                <div class="upfcl-class-room" id="upfcl-class-room-252">TRX</div>
+                                <div class="upfcl-class-date" id="upfcl-class-date-252" style="display:none">15.04.2024</div>
+                                <div class="upfcl-class-description" id="upfcl-class-description-252" style="display:none"></div>
+                                <div class="upfcl-class-difficulty" id="upfcl-class-difficulty-252" style="display:none"></div>
+                                <div class="upfcl-class-types" id="upfcl-class-types-252" style="display:none"></div>
+                                <div class="upfcl-class-benefits" id="upfcl-class-benefits-252" style="display:none"></div>
+                                                    </div>
+                                                <div class="upfcl-class upfcl-sc-fdb6da6c369d456f6f1c12bcb1fec8a2">
+                                <div class="upfcl-class-time" id="upfcl-class-time-43551"><span class="upfcl-class-start">09:00</span> - <span class="upfcl-class-end">09:50</span></div>
+                                <div class="upfcl-class-name" id="upfcl-class-name-43551">PILATES</div>
+                                <div class="upfcl-class-trainer" id="upfcl-class-trainer-43551">MELINDA FERENCZI</div>
+                                <div class="upfcl-class-room" id="upfcl-class-room-43551">AEROBIC STUDIO</div>
+                                <div class="upfcl-class-date" id="upfcl-class-date-43551" style="display:none">15.04.2024</div>
+                                <div class="upfcl-class-description" id="upfcl-class-description-43551" style="display:none"></div>
+                                <div class="upfcl-class-difficulty" id="upfcl-class-difficulty-43551" style="display:none"></div>
+                                <div class="upfcl-class-types" id="upfcl-class-types-43551" style="display:none"></div>
+                                <div class="upfcl-class-benefits" id="upfcl-class-benefits-43551" style="display:none"></div>
+                                                    </div>
+                                                <div class="upfcl-class upfcl-sc-10">
+                                <div class="upfcl-class-time" id="upfcl-class-time-43790"><span class="upfcl-class-start">16:00</span> - <span class="upfcl-class-end">16:50</span></div>
+                                <div class="upfcl-class-name" id="upfcl-class-name-43790">GIMNASTICA RITMICA</div>
+                                <div class="upfcl-class-trainer" id="upfcl-class-trainer-43790">STEFANIA OLTEAN</div>
+                                <div class="upfcl-class-room" id="upfcl-class-room-43790">CYCLING STUDIO</div>
+                                <div class="upfcl-class-date" id="upfcl-class-date-43790" style="display:none">15.04.2024</div>
+                                <div class="upfcl-class-description" id="upfcl-class-description-43790" style="display:none"></div>
+                                <div class="upfcl-class-difficulty" id="upfcl-class-difficulty-43790" style="display:none"></div>
+                                <div class="upfcl-class-types" id="upfcl-class-types-43790" style="display:none"></div>
+                                <div class="upfcl-class-benefits" id="upfcl-class-benefits-43790" style="display:none"></div>
+                                                    </div>
+                                                <div class="upfcl-class upfcl-sc-10">
+                                <div class="upfcl-class-time" id="upfcl-class-time-19119"><span class="upfcl-class-start">16:40</span> - <span class="upfcl-class-end">17:30</span></div>
+                                <div class="upfcl-class-name" id="upfcl-class-name-19119">TAEKWONDO</div>
+                                <div class="upfcl-class-trainer" id="upfcl-class-trainer-19119">ALEXANDRU MURESAN</div>
+                                <div class="upfcl-class-room" id="upfcl-class-room-19119">AEROBIC STUDIO</div>
+                                <div class="upfcl-class-date" id="upfcl-class-date-19119" style="display:none">15.04.2024</div>
+                                <div class="upfcl-class-description" id="upfcl-class-description-19119" style="display:none">Accesul permis copiilor</div>
+                                <div class="upfcl-class-difficulty" id="upfcl-class-difficulty-19119" style="display:none"></div>
+                                <div class="upfcl-class-types" id="upfcl-class-types-19119" style="display:none"></div>
+                                <div class="upfcl-class-benefits" id="upfcl-class-benefits-19119" style="display:none"></div>
+                                                    </div>
+                                                <div class="upfcl-class upfcl-sc-fdb6da6c369d456f6f1c12bcb1fec8a2">
+                                <div class="upfcl-class-time" id="upfcl-class-time-19517"><span class="upfcl-class-start">18:00</span> - <span class="upfcl-class-end">18:50</span></div>
+                                <div class="upfcl-class-name" id="upfcl-class-name-19517">PILATES</div>
+                                <div class="upfcl-class-trainer" id="upfcl-class-trainer-19517">MELINDA FERENCZI</div>
+                                <div class="upfcl-class-room" id="upfcl-class-room-19517">TRX</div>
+                                <div class="upfcl-class-date" id="upfcl-class-date-19517" style="display:none">15.04.2024</div>
+                                <div class="upfcl-class-description" id="upfcl-class-description-19517" style="display:none"></div>
+                                <div class="upfcl-class-difficulty" id="upfcl-class-difficulty-19517" style="display:none"></div>
+                                <div class="upfcl-class-types" id="upfcl-class-types-19517" style="display:none"></div>
+                                <div class="upfcl-class-benefits" id="upfcl-class-benefits-19517" style="display:none"></div>
+                                                    </div>
+                                                <div class="upfcl-class upfcl-sc-3">
+                                <div class="upfcl-class-time" id="upfcl-class-time-19915"><span class="upfcl-class-start">18:00</span> - <span class="upfcl-class-end">18:50</span></div>
+                                <div class="upfcl-class-name" id="upfcl-class-name-19915">BODY PUMP</div>
+                                <div class="upfcl-class-trainer" id="upfcl-class-trainer-19915">TATIANA PINTEA, CIPRIAN ROTAR</div>
+                                <div class="upfcl-class-room" id="upfcl-class-room-19915">AEROBIC STUDIO</div>
+                                <div class="upfcl-class-date" id="upfcl-class-date-19915" style="display:none">15.04.2024</div>
+                                <div class="upfcl-class-description" id="upfcl-class-description-19915" style="display:none"></div>
+                                <div class="upfcl-class-difficulty" id="upfcl-class-difficulty-19915" style="display:none"></div>
+                                <div class="upfcl-class-types" id="upfcl-class-types-19915" style="display:none"></div>
+                                <div class="upfcl-class-benefits" id="upfcl-class-benefits-19915" style="display:none"></div>
+                                                    </div>
+                                                <div class="upfcl-class upfcl-sc-9a77b2712d8d166aab25fe4a52a06e7d">
+                                <div class="upfcl-class-time" id="upfcl-class-time-20313"><span class="upfcl-class-start">18:00</span> - <span class="upfcl-class-end">18:50</span></div>
+                                <div class="upfcl-class-name" id="upfcl-class-name-20313">KANGOO JUMPS</div>
+                                <div class="upfcl-class-trainer" id="upfcl-class-trainer-20313">ANCA MURESAN</div>
+                                <div class="upfcl-class-room" id="upfcl-class-room-20313">CYCLING STUDIO</div>
+                                <div class="upfcl-class-date" id="upfcl-class-date-20313" style="display:none">15.04.2024</div>
+                                <div class="upfcl-class-description" id="upfcl-class-description-20313" style="display:none"></div>
+                                <div class="upfcl-class-difficulty" id="upfcl-class-difficulty-20313" style="display:none"></div>
+                                <div class="upfcl-class-types" id="upfcl-class-types-20313" style="display:none"></div>
+                                <div class="upfcl-class-benefits" id="upfcl-class-benefits-20313" style="display:none"></div>
+                                                    </div>
+                                                <div class="upfcl-class upfcl-sc-522f694f92e679d874a1cc2b2616c3d7">
+                                <div class="upfcl-class-time" id="upfcl-class-time-20711"><span class="upfcl-class-start">19:00</span> - <span class="upfcl-class-end">19:50</span></div>
+                                <div class="upfcl-class-name" id="upfcl-class-name-20711">STEP</div>
+                                <div class="upfcl-class-trainer" id="upfcl-class-trainer-20711">PETRA NADABAN</div>
+                                <div class="upfcl-class-room" id="upfcl-class-room-20711">CYCLING STUDIO</div>
+                                <div class="upfcl-class-date" id="upfcl-class-date-20711" style="display:none">15.04.2024</div>
+                                <div class="upfcl-class-description" id="upfcl-class-description-20711" style="display:none"></div>
+                                <div class="upfcl-class-difficulty" id="upfcl-class-difficulty-20711" style="display:none"></div>
+                                <div class="upfcl-class-types" id="upfcl-class-types-20711" style="display:none"></div>
+                                <div class="upfcl-class-benefits" id="upfcl-class-benefits-20711" style="display:none"></div>
+                                                    </div>
+                                                <div class="upfcl-class upfcl-sc-afe56c92d915e670afcd4aa389eb0750">
+                                <div class="upfcl-class-time" id="upfcl-class-time-21109"><span class="upfcl-class-start">19:00</span> - <span class="upfcl-class-end">19:50</span></div>
+                                <div class="upfcl-class-name" id="upfcl-class-name-21109">CYCLING</div>
+                                <div class="upfcl-class-trainer" id="upfcl-class-trainer-21109">CIPRIAN ROTAR</div>
+                                <div class="upfcl-class-room" id="upfcl-class-room-21109">AEROBIC STUDIO</div>
+                                <div class="upfcl-class-date" id="upfcl-class-date-21109" style="display:none">15.04.2024</div>
+                                <div class="upfcl-class-description" id="upfcl-class-description-21109" style="display:none"></div>
+                                <div class="upfcl-class-difficulty" id="upfcl-class-difficulty-21109" style="display:none"></div>
+                                <div class="upfcl-class-types" id="upfcl-class-types-21109" style="display:none"></div>
+                                <div class="upfcl-class-benefits" id="upfcl-class-benefits-21109" style="display:none"></div>
+                                                    </div>
+                                                <div class="upfcl-class upfcl-sc-726df3ccc4f0ee54d68fcd87e4f1619e">
+                                <div class="upfcl-class-time" id="upfcl-class-time-21507"><span class="upfcl-class-start">19:00</span> - <span class="upfcl-class-end">19:50</span></div>
+                                <div class="upfcl-class-name" id="upfcl-class-name-21507">TRX INCEPATORI</div>
+                                <div class="upfcl-class-trainer" id="upfcl-class-trainer-21507">FLAVIU LAZAR</div>
+                                <div class="upfcl-class-room" id="upfcl-class-room-21507">TRX</div>
+                                <div class="upfcl-class-date" id="upfcl-class-date-21507" style="display:none">15.04.2024</div>
+                                <div class="upfcl-class-description" id="upfcl-class-description-21507" style="display:none"></div>
+                                <div class="upfcl-class-difficulty" id="upfcl-class-difficulty-21507" style="display:none"></div>
+                                <div class="upfcl-class-types" id="upfcl-class-types-21507" style="display:none"></div>
+                                <div class="upfcl-class-benefits" id="upfcl-class-benefits-21507" style="display:none"></div>
+                                                    </div>
+                                                <div class="upfcl-class upfcl-sc-3">
+                                <div class="upfcl-class-time" id="upfcl-class-time-21905"><span class="upfcl-class-start">20:00</span> - <span class="upfcl-class-end">20:50</span></div>
+                                <div class="upfcl-class-name" id="upfcl-class-name-21905">TRX VS BOSU INCEPATORI</div>
+                                <div class="upfcl-class-trainer" id="upfcl-class-trainer-21905">FLAVIU LAZAR</div>
+                                <div class="upfcl-class-room" id="upfcl-class-room-21905">TRX</div>
+                                <div class="upfcl-class-date" id="upfcl-class-date-21905" style="display:none">15.04.2024</div>
+                                <div class="upfcl-class-description" id="upfcl-class-description-21905" style="display:none"></div>
+                                <div class="upfcl-class-difficulty" id="upfcl-class-difficulty-21905" style="display:none"></div>
+                                <div class="upfcl-class-types" id="upfcl-class-types-21905" style="display:none"></div>
+                                <div class="upfcl-class-benefits" id="upfcl-class-benefits-21905" style="display:none"></div>
+                                                    </div>
+                                                <div class="upfcl-class upfcl-sc-e657cce1913c857166b0475f18668ef5">
+                                <div class="upfcl-class-time" id="upfcl-class-time-22307"><span class="upfcl-class-start">20:00</span> - <span class="upfcl-class-end">20:50</span></div>
+                                <div class="upfcl-class-name" id="upfcl-class-name-22307">BOX</div>
+                                <div class="upfcl-class-trainer" id="upfcl-class-trainer-22307">TITI TITI</div>
+                                <div class="upfcl-class-room" id="upfcl-class-room-22307">CYCLING STUDIO</div>
+                                <div class="upfcl-class-date" id="upfcl-class-date-22307" style="display:none">15.04.2024</div>
+                                <div class="upfcl-class-description" id="upfcl-class-description-22307" style="display:none"></div>
+                                <div class="upfcl-class-difficulty" id="upfcl-class-difficulty-22307" style="display:none"></div>
+                                <div class="upfcl-class-types" id="upfcl-class-types-22307" style="display:none"></div>
+                                <div class="upfcl-class-benefits" id="upfcl-class-benefits-22307" style="display:none"></div>
+                                                    </div>
+                                                <div class="upfcl-class upfcl-sc-3f086716e9bd853e8ca036be91664b3c">
+                                <div class="upfcl-class-time" id="upfcl-class-time-22705"><span class="upfcl-class-start">20:00</span> - <span class="upfcl-class-end">20:50</span></div>
+                                <div class="upfcl-class-name" id="upfcl-class-name-22705">ZUMBA</div>
+                                <div class="upfcl-class-trainer" id="upfcl-class-trainer-22705">RAMONA IGE</div>
+                                <div class="upfcl-class-room" id="upfcl-class-room-22705">AEROBIC STUDIO</div>
+                                <div class="upfcl-class-date" id="upfcl-class-date-22705" style="display:none">15.04.2024</div>
+                                <div class="upfcl-class-description" id="upfcl-class-description-22705" style="display:none"></div>
+                                <div class="upfcl-class-difficulty" id="upfcl-class-difficulty-22705" style="display:none"></div>
+                                <div class="upfcl-class-types" id="upfcl-class-types-22705" style="display:none"></div>
+                                <div class="upfcl-class-benefits" id="upfcl-class-benefits-22705" style="display:none"></div>
+                                                    </div>
+                                                <div class="upfcl-class upfcl-sc-726df3ccc4f0ee54d68fcd87e4f1619e">
+                                <div class="upfcl-class-time" id="upfcl-class-time-23098"><span class="upfcl-class-start">21:00</span> - <span class="upfcl-class-end">21:50</span></div>
+                                <div class="upfcl-class-name" id="upfcl-class-name-23098">TRX INCEPATORI</div>
+                                <div class="upfcl-class-trainer" id="upfcl-class-trainer-23098">FLAVIU LAZAR</div>
+                                <div class="upfcl-class-room" id="upfcl-class-room-23098">TRX</div>
+                                <div class="upfcl-class-date" id="upfcl-class-date-23098" style="display:none">15.04.2024</div>
+                                <div class="upfcl-class-description" id="upfcl-class-description-23098" style="display:none"></div>
+                                <div class="upfcl-class-difficulty" id="upfcl-class-difficulty-23098" style="display:none"></div>
+                                <div class="upfcl-class-types" id="upfcl-class-types-23098" style="display:none"></div>
+                                <div class="upfcl-class-benefits" id="upfcl-class-benefits-23098" style="display:none"></div>
+                                                    </div>
+                                                            </li>
+                                    <li class="upfcl-schedule-tt">
+                            <div class="upfcl-schedule-header">
+                                <h4 class="upfcl-schedule-day">Marți</h4>
+                                <h5 class="upfcl-schedule-date">16 Aprilie</h5>
+                            </div>
+                                            <div class="upfcl-class upfcl-sc-afe56c92d915e670afcd4aa389eb0750">
+                                <div class="upfcl-class-time" id="upfcl-class-time-23413"><span class="upfcl-class-start">08:00</span> - <span class="upfcl-class-end">08:50</span></div>
+                                <div class="upfcl-class-name" id="upfcl-class-name-23413">CYCLING</div>
+                                <div class="upfcl-class-trainer" id="upfcl-class-trainer-23413">CIPRIAN ROTAR</div>
+                                <div class="upfcl-class-room" id="upfcl-class-room-23413">AEROBIC STUDIO</div>
+                                <div class="upfcl-class-date" id="upfcl-class-date-23413" style="display:none">16.04.2024</div>
+                                <div class="upfcl-class-description" id="upfcl-class-description-23413" style="display:none"></div>
+                                <div class="upfcl-class-difficulty" id="upfcl-class-difficulty-23413" style="display:none"></div>
+                                <div class="upfcl-class-types" id="upfcl-class-types-23413" style="display:none"></div>
+                                <div class="upfcl-class-benefits" id="upfcl-class-benefits-23413" style="display:none"></div>
+                                                    </div>
+                                                <div class="upfcl-class upfcl-sc-8c0ecdfd65541693490ee899fe659e08">
+                                <div class="upfcl-class-time" id="upfcl-class-time-23810"><span class="upfcl-class-start">09:00</span> - <span class="upfcl-class-end">09:50</span></div>
+                                <div class="upfcl-class-name" id="upfcl-class-name-23810">TRX RIP</div>
+                                <div class="upfcl-class-trainer" id="upfcl-class-trainer-23810">FLAVIU LAZAR</div>
+                                <div class="upfcl-class-room" id="upfcl-class-room-23810">TRX</div>
+                                <div class="upfcl-class-date" id="upfcl-class-date-23810" style="display:none">16.04.2024</div>
+                                <div class="upfcl-class-description" id="upfcl-class-description-23810" style="display:none"></div>
+                                <div class="upfcl-class-difficulty" id="upfcl-class-difficulty-23810" style="display:none"></div>
+                                <div class="upfcl-class-types" id="upfcl-class-types-23810" style="display:none"></div>
+                                <div class="upfcl-class-benefits" id="upfcl-class-benefits-23810" style="display:none"></div>
+                                                    </div>
+                                                <div class="upfcl-class upfcl-sc-fdb6da6c369d456f6f1c12bcb1fec8a2">
+                                <div class="upfcl-class-time" id="upfcl-class-time-24207"><span class="upfcl-class-start">09:00</span> - <span class="upfcl-class-end">09:50</span></div>
+                                <div class="upfcl-class-name" id="upfcl-class-name-24207">PILATES</div>
+                                <div class="upfcl-class-trainer" id="upfcl-class-trainer-24207">MELINDA FERENCZI</div>
+                                <div class="upfcl-class-room" id="upfcl-class-room-24207">AEROBIC STUDIO</div>
+                                <div class="upfcl-class-date" id="upfcl-class-date-24207" style="display:none">16.04.2024</div>
+                                <div class="upfcl-class-description" id="upfcl-class-description-24207" style="display:none"></div>
+                                <div class="upfcl-class-difficulty" id="upfcl-class-difficulty-24207" style="display:none"></div>
+                                <div class="upfcl-class-types" id="upfcl-class-types-24207" style="display:none"></div>
+                                <div class="upfcl-class-benefits" id="upfcl-class-benefits-24207" style="display:none"></div>
+                                                    </div>
+                                                <div class="upfcl-class upfcl-sc-fdb6da6c369d456f6f1c12bcb1fec8a2">
+                                <div class="upfcl-class-time" id="upfcl-class-time-25388"><span class="upfcl-class-start">18:00</span> - <span class="upfcl-class-end">18:50</span></div>
+                                <div class="upfcl-class-name" id="upfcl-class-name-25388">PILATES</div>
+                                <div class="upfcl-class-trainer" id="upfcl-class-trainer-25388">PETRA NADABAN</div>
+                                <div class="upfcl-class-room" id="upfcl-class-room-25388">AEROBIC STUDIO</div>
+                                <div class="upfcl-class-date" id="upfcl-class-date-25388" style="display:none">16.04.2024</div>
+                                <div class="upfcl-class-description" id="upfcl-class-description-25388" style="display:none"></div>
+                                <div class="upfcl-class-difficulty" id="upfcl-class-difficulty-25388" style="display:none"></div>
+                                <div class="upfcl-class-types" id="upfcl-class-types-25388" style="display:none"></div>
+                                <div class="upfcl-class-benefits" id="upfcl-class-benefits-25388" style="display:none"></div>
+                                                    </div>
+                                                <div class="upfcl-class upfcl-sc-3">
+                                <div class="upfcl-class-time" id="upfcl-class-time-44352"><span class="upfcl-class-start">18:00</span> - <span class="upfcl-class-end">18:30</span></div>
+                                <div class="upfcl-class-name" id="upfcl-class-name-44352">HIGH INTENSITY INTERVALS</div>
+                                <div class="upfcl-class-trainer" id="upfcl-class-trainer-44352">STEFANIA MORARU</div>
+                                <div class="upfcl-class-room" id="upfcl-class-room-44352">TRX</div>
+                                <div class="upfcl-class-date" id="upfcl-class-date-44352" style="display:none">16.04.2024</div>
+                                <div class="upfcl-class-description" id="upfcl-class-description-44352" style="display:none"></div>
+                                <div class="upfcl-class-difficulty" id="upfcl-class-difficulty-44352" style="display:none"></div>
+                                <div class="upfcl-class-types" id="upfcl-class-types-44352" style="display:none"></div>
+                                <div class="upfcl-class-benefits" id="upfcl-class-benefits-44352" style="display:none"></div>
+                                                    </div>
+                                                <div class="upfcl-class upfcl-sc-9bdb790536d6f894b0a4a05fd64a4bfc">
+                                <div class="upfcl-class-time" id="upfcl-class-time-18964"><span class="upfcl-class-start">19:00</span> - <span class="upfcl-class-end">19:50</span></div>
+                                <div class="upfcl-class-name" id="upfcl-class-name-18964">ZUMBA TONING</div>
+                                <div class="upfcl-class-trainer" id="upfcl-class-trainer-18964">RAMONA IGE</div>
+                                <div class="upfcl-class-room" id="upfcl-class-room-18964">TRX</div>
+                                <div class="upfcl-class-date" id="upfcl-class-date-18964" style="display:none">16.04.2024</div>
+                                <div class="upfcl-class-description" id="upfcl-class-description-18964" style="display:none"></div>
+                                <div class="upfcl-class-difficulty" id="upfcl-class-difficulty-18964" style="display:none"></div>
+                                <div class="upfcl-class-types" id="upfcl-class-types-18964" style="display:none"></div>
+                                <div class="upfcl-class-benefits" id="upfcl-class-benefits-18964" style="display:none"></div>
+                                                    </div>
+                                                <div class="upfcl-class upfcl-sc-3">
+                                <div class="upfcl-class-time" id="upfcl-class-time-26438"><span class="upfcl-class-start">19:00</span> - <span class="upfcl-class-end">19:50</span></div>
+                                <div class="upfcl-class-name" id="upfcl-class-name-26438">BODY PUMP</div>
+                                <div class="upfcl-class-trainer" id="upfcl-class-trainer-26438">TATIANA PINTEA, CIPRIAN ROTAR</div>
+                                <div class="upfcl-class-room" id="upfcl-class-room-26438">AEROBIC STUDIO</div>
+                                <div class="upfcl-class-date" id="upfcl-class-date-26438" style="display:none">16.04.2024</div>
+                                <div class="upfcl-class-description" id="upfcl-class-description-26438" style="display:none"></div>
+                                <div class="upfcl-class-difficulty" id="upfcl-class-difficulty-26438" style="display:none"></div>
+                                <div class="upfcl-class-types" id="upfcl-class-types-26438" style="display:none"></div>
+                                <div class="upfcl-class-benefits" id="upfcl-class-benefits-26438" style="display:none"></div>
+                                                    </div>
+                                                <div class="upfcl-class upfcl-sc-f28ad38806f5defe04838de3042a5cdf">
+                                <div class="upfcl-class-time" id="upfcl-class-time-44699"><span class="upfcl-class-start">19:00</span> - <span class="upfcl-class-end">19:50</span></div>
+                                <div class="upfcl-class-name" id="upfcl-class-name-44699">AEROBIC</div>
+                                <div class="upfcl-class-trainer" id="upfcl-class-trainer-44699">MELINDA FERENCZI</div>
+                                <div class="upfcl-class-room" id="upfcl-class-room-44699">CYCLING STUDIO</div>
+                                <div class="upfcl-class-date" id="upfcl-class-date-44699" style="display:none">16.04.2024</div>
+                                <div class="upfcl-class-description" id="upfcl-class-description-44699" style="display:none"></div>
+                                <div class="upfcl-class-difficulty" id="upfcl-class-difficulty-44699" style="display:none"></div>
+                                <div class="upfcl-class-types" id="upfcl-class-types-44699" style="display:none"></div>
+                                <div class="upfcl-class-benefits" id="upfcl-class-benefits-44699" style="display:none"></div>
+                                                    </div>
+                                                <div class="upfcl-class upfcl-sc-afe56c92d915e670afcd4aa389eb0750">
+                                <div class="upfcl-class-time" id="upfcl-class-time-2436"><span class="upfcl-class-start">20:00</span> - <span class="upfcl-class-end">20:50</span></div>
+                                <div class="upfcl-class-name" id="upfcl-class-name-2436">CYCLING</div>
+                                <div class="upfcl-class-trainer" id="upfcl-class-trainer-2436">CIPRIAN ROTAR</div>
+                                <div class="upfcl-class-room" id="upfcl-class-room-2436">AEROBIC STUDIO</div>
+                                <div class="upfcl-class-date" id="upfcl-class-date-2436" style="display:none">16.04.2024</div>
+                                <div class="upfcl-class-description" id="upfcl-class-description-2436" style="display:none"></div>
+                                <div class="upfcl-class-difficulty" id="upfcl-class-difficulty-2436" style="display:none"></div>
+                                <div class="upfcl-class-types" id="upfcl-class-types-2436" style="display:none"></div>
+                                <div class="upfcl-class-benefits" id="upfcl-class-benefits-2436" style="display:none"></div>
+                                                    </div>
+                                                <div class="upfcl-class upfcl-sc-f5d28e36a6d8c3342613a2411db1f9a0">
+                                <div class="upfcl-class-time" id="upfcl-class-time-26988"><span class="upfcl-class-start">20:00</span> - <span class="upfcl-class-end">20:50</span></div>
+                                <div class="upfcl-class-name" id="upfcl-class-name-26988">YOGA</div>
+                                <div class="upfcl-class-trainer" id="upfcl-class-trainer-26988">DAVID LILA</div>
+                                <div class="upfcl-class-room" id="upfcl-class-room-26988">TRX</div>
+                                <div class="upfcl-class-date" id="upfcl-class-date-26988" style="display:none">16.04.2024</div>
+                                <div class="upfcl-class-description" id="upfcl-class-description-26988" style="display:none"></div>
+                                <div class="upfcl-class-difficulty" id="upfcl-class-difficulty-26988" style="display:none"></div>
+                                <div class="upfcl-class-types" id="upfcl-class-types-26988" style="display:none"></div>
+                                <div class="upfcl-class-benefits" id="upfcl-class-benefits-26988" style="display:none"></div>
+                                                    </div>
+                                                <div class="upfcl-class upfcl-sc-3">
+                                <div class="upfcl-class-time" id="upfcl-class-time-44899"><span class="upfcl-class-start">20:00</span> - <span class="upfcl-class-end">20:50</span></div>
+                                <div class="upfcl-class-name" id="upfcl-class-name-44899">TABATA</div>
+                                <div class="upfcl-class-trainer" id="upfcl-class-trainer-44899">IOANA DIOSAN</div>
+                                <div class="upfcl-class-room" id="upfcl-class-room-44899">CYCLING STUDIO</div>
+                                <div class="upfcl-class-date" id="upfcl-class-date-44899" style="display:none">16.04.2024</div>
+                                <div class="upfcl-class-description" id="upfcl-class-description-44899" style="display:none"></div>
+                                <div class="upfcl-class-difficulty" id="upfcl-class-difficulty-44899" style="display:none"></div>
+                                <div class="upfcl-class-types" id="upfcl-class-types-44899" style="display:none"></div>
+                                <div class="upfcl-class-benefits" id="upfcl-class-benefits-44899" style="display:none"></div>
+                                                    </div>
+                            </li>
+                    </ul> <!-- /.upfcl_slides -->
+                </div> <!-- /.upfcl_frame -->
+                <span class="upfcl_prev upfcl_prev-1">
+                    <svg onclick="goSlide();" xmlns="http://www.w3.org/2000/svg" width="50" height="50" viewBox="0 0 501.5 501.5"><g><path fill="#FFFFFF" d="M302.67 90.877l55.77 55.508L254.575 250.75 358.44 355.116l-55.77 55.506L143.56 250.75z"/></g></svg>
+                </span>
+                <span class="upfcl_next upfcl_next-1">
+                    <svg onclick="goSlide();" xmlns="http://www.w3.org/2000/svg" width="50" height="50" viewBox="0 0 501.5 501.5"><g><path fill="#ffffff" d="M199.33 410.622l-55.77-55.508L247.425 250.75 143.56 146.384l55.77-55.507L358.44 250.75z"/></g></svg>
+                </span>
+            </div> <!-- /.upfcl_slider -->
+        </div> <!-- /.upfcl-schedule -->
+        <div class="upfcl-modal-template">
+    <div class="upfcl-container bbhr">
+        <div class="upfcl-row upfcl-no-gutters upfcl-align-items-center">
+            <div class="upfcl-col-md-3">
+                <img src="/logo.APP_LOGO_EXT" class="header-partner-img upfcl-img-fluid">
+            </div>
+            <div class="upfcl-col-md-9">
+                <h3 class="upfcl-modal-header">REZERVĂ-ȚI LOC LA CLASĂ CU CONTUL TĂU DE MEMBRU BIG FITNESS</h3>
+            </div>
+        </div>
+    </div>
+    <div class="upfcl-modal-content">
+        Introdu datele contului tău ca să îți rezervi un loc la clasa        <div class="upfcl-modal-class"><span class="upfcl-modal-class__name"></span><span class="upfcl-modal-class__with"> cu </span><span class="upfcl-modal-class__trainer"></span></div>
+         de la <span class="upfcl-modal-begin"></span> la <span class="upfcl-modal-end"></span> în data de <span class="upfcl-modal-date"></span>
+        <form id="upfcl-modal-form" action="/book-class.php" class="upfcl-form upfcl-book-form">
+            <input type="hidden" name="class" value="" class="upfcl-modal-class">
+            <input type="hidden" name="lang" value="ro">
+            <div class="upfcl-row">
+                <div class="upfcl-col-md-6 upfcl-col-lg-6">
+                    <div class="group-book">
+                        <label for="email">E-mail</label>
+                        <input type="email" name="email" id="email" value="" class="upfcl-modal-email book-input" placeholder="E-mail">
+                    </div>
+                </div>
+                <div class="upfcl-col-md-6 upfcl-col-lg-6">
+                    <div class="group-book">
+                        <label for="pincode">Cod PIN</label>
+                        <input type="password" name="pincode" id="pincode" value="" class="upfcl-modal-pincode book-input-pincode" placeholder="Cod pin">
+                    </div>
+                </div>
+                <input type="hidden" name="notify" value="true" />            </div>
+        </form>
+        <p class="expl-book">Completează adresa de e-mail asociată abonamentului tău.<br /> Dacă nu știi codul PIN aferent contului tău, cere resetarea lui la recepția clubului.</p>    </div>
+</div>
+<div class="upfcl-modal-template-7card">
+    <div class="upfcl-container bbhr">
+        <div class="seven-border-header upfcl-row upfcl-no-gutters upfcl-align-items-center">
+            <div class="upfcl-col-md-3">
+                <img src="/assets/logo_7card-Gympass.png" class="header-partner-seven-img upfcl-img-fluid">
+            </div>
+            <div class="upfcl-col-md-9">
+                <h3 class="seven-modal-header">REZERVĂ-ȚI LOC LA CLASĂ CU CONTUL TĂU 7CARD</h3>
+            </div>
+        </div>
+    </div>
+    <div class="upfcl-modal-content">
+        Introdu datele contului tău ca să îți rezervi un loc la clasa        <div class="upfcl-modal-class"><span class="upfcl-modal-class__name"></span><span class="upfcl-modal-class__with"> cu </span><span class="upfcl-modal-class__trainer"></span></div>
+         de la <span class="upfcl-modal-begin"></span> la <span class="upfcl-modal-end"></span> în data de <span class="upfcl-modal-date"></span>
+        <form id="upfcl-modal-form" action="/book-class-7card.php" class="upfcl-form upfcl-book-form">
+            <input type="hidden" name="class" value="" class="upfcl-modal-class">
+            <div class="upfcl-row">
+                <div class="upfcl-col-md-6 upfcl-col-lg-6">
+                    <div class="group-book">
+                        <label for="email">E-mail</label>
+                        <input type="email" name="email" value="" class="upfcl-modal-email book-input" placeholder="E-mail">
+                    </div>
+                </div>
+                <div class="upfcl-col-md-6 upfcl-col-lg-6">
+                    <div class="group-book">
+                        <label for="pincode">Parolă</label>
+                        <input type="password" name="pincode" value="" class="upfcl-modal-pincode book-input-pincode" placeholder="Parolă">
+                    </div>
+                </div>
+                <input type="hidden" name="notify" value="true" />            </div>
+        </form>
+        <p class="expl-book">Completează adresa de e-mail și parola cu care te autentifici în contul tău 7card.</p>    </div>
+</div>
+<div class="upfcl-modal-template-add-member">
+    <div class="upfcl-container bbhr">
+        <div class="seven-border-header upfcl-row upfcl-no-gutters upfcl-align-items-center">
+            <div class="upfcl-col-md-3">
+                <img src="/assets/logo_7card-Gympass.png" class="header-partner-seven-img upfcl-img-fluid">
+            </div>
+            <div class="upfcl-col-md-9">
+                <h3 class="seven-modal-header">REZERVĂ-ȚI LOC LA CLASĂ CU CONTUL TĂU 7CARD</h3>
+            </div>
+        </div>
+    </div>
+    <div class="upfcl-modal-content">
+        Pentru finalizarea rezervării tale completează câmpurile de mai jos.        Un e-mail de confirmare a rezervării va fi trimis pe <strong><span id="member_email_book"></span></strong>        <form id="upfcl-modal-form" action="/book-class-7card-add.php" class="upfcl-form upfcl-book-form">
+            <input type="hidden" name="class" value="" class="upfcl-modal-class">
+            <div class="upfcl-row">
+                <div class="upfcl-col-md-6 upfcl-col-lg-6">
+                    <div class="group-book">
+                        <label for="f_name">Prenume</label>
+                        <input type="text" name="f_name" id="f_name" value="" class="upfcl-modal-f-name" placeholder="Prenume">
+                    </div>
+                </div>
+                <div class="upfcl-col-md-6 upfcl-col-lg-6">
+                    <div class="group-book">
+                        <label for="l_name">Nume</label>
+                        <input type="text" name="l_name" id="l_name" value="" class="upfcl-modal-l-name" placeholder="Nume">
+                    </div>
+                </div>
+                <input type="hidden" name="notify" value="true" />            </div>
+        </form>
+        <p class="expl-book">Informațiile completate în câmpurile de mai sus se vor folosi pentru crearea profilului tău în cadrul platformei de management utilizată de clubul nostru</p>    </div>
+</div>
+<div class="upfcl-modal-message-template" style="display:none">
+    <h3 class="upfcl-modal-header upfcl-note--success" id="success-book-class">LOCUL TĂU LA CLASĂ A FOST REZERVAT</h3>
+    <div class="upfcl-modal-content">
+        <div class="upfcl-modal-class">
+            Îți confirmăm rezervarea unui loc pe <strong><span id="upfcl-note-booking-booked" class="upfcl-note--success" style="display:none">&nbsp;LISTA DE PARTICIPARE (BOOKED LIST)&nbsp;</span><span id="upfcl-note-booking-waiting" class="upfcl-note--alert" style="display:none">&nbsp;LISTA DE AȘTEPTARE (WAITING LIST)&nbsp;</span></strong> la clasa <span class="upfcl-modal-class__name"></span><span class="upfcl-modal-class__with"> cu </span><span class="upfcl-modal-class__trainer"></span>
+        </div>
+         de la <strong><span class="upfcl-modal-begin"></span></strong> la <strong><span class="upfcl-modal-end"></span></strong> în data de <strong><span class="upfcl-modal-date"></span></strong>
+        <br /><br />
+        Un e-mail de confirmare cu detaliile rezervării tale a fost trimis pe <strong><span id="member_email_succes"></span></strong><br /><br />        <small>
+            <strong class="error">IMPORTANT</strong> - Știm că planurile se pot schimba, de aceea te rugăm să anulezi rezervarea în cazul în care nu mai poți participa la clasă folosind numărul de rezervare <b></b>.
+        </small>
+    </div>
+</div>
+<div class="upfcl-modal-template-details">
+    <div class="upfcl-container bbhr">
+        <div class="upfcl-row upfcl-no-gutters upfcl-align-items-center">
+            <div class="upfcl-col-md-3">
+                <img src="/logo.APP_LOGO_EXT" class="header-partner-img upfcl-img-fluid">
+            </div>
+            <div class="upfcl-col-md-9">
+                <h3 class="upfcl-modal-header">Detalii despre <span class="upfcl-modal-class__name"></span></h3>
+            </div>
+        </div>
+    </div>
+    <div class="upfcl-modal-content">
+        <span class="upfcl-modal-class__description"></span><br /><br />
+        <div style="line-height: 2.5;">
+            <span class="upfcl-modal-class__difficulty"></span>
+            <span class="upfcl-modal-class__types"></span>
+            <span class="upfcl-modal-class__benefits"></span>
+        </div>
+    </div>
+</div>
+
+<div class="upfcl-note upfcl-note--success upfcl-modal-note-template">
+<h4 class="upfcl-note__heading">Rezervarea a fost făcută</h4>
+    Poţi anula această rezervare cu până la 90 de minute înainte de începerea clasei. Numărul rezervării tale este <b></b>.
+</div>
+<div class="upfcl-note upfcl-note--alert upfcl-modal-note-template">
+    <h4 class="upfcl-note__heading">Eşti pe LISTA DE AŞTEPTARE</h4>
+    Această clasă este ocupată complet momentan, iar înregistrarea ta este salvată şi confirmată ca numărul <strong></strong> pe lista de aşteptare. Numărul rezervării tale este <b></b>.
+</div>
+<div class="upfcl-note upfcl-note--danger upfcl-modal-note-template">
+    <h4 class="upfcl-note__heading">Rezervarea NU a fost făcută</h4>
+    <span></span>
+</div>
+<span id="yes" value="Rezervă" style="display:hidden"></span>
+<span id="nope" value="Anulează" style="display:hidden"></span>
+<span id="close" value="ÎNCHIDE" style="display:hidden"></span>
+<span id="details" value="Detalii" style="display:hidden"></span>
+<span id="back" value="Rezervă" style="display:hidden"></span>
+<div id="upfcl-7card" class="upfcl_hide_footer" style="display:none;">
+    <div class="footer-partner-content">
+        <div class="upfcl-container">
+            <div class="upfcl-row">
+                <div class="upfcl-col-md-3">
+                    <div class="footer-partner-img">
+                        <img src="/assets/logo_7card-Gympass.png" class="upfcl-img-fluid" />
+                    </div>
+                </div>
+                <div class="upfcl-col-md-9">
+                    <div class="footer-partner-text">
+                        <h4 class="upfcl-note__heading footer-partner-heading">Vrei să îți rezervi folosind contul tău 7card</h4>
+                        <p class="footer-partner-p">Rezervă online locul la clasă folosind datele contului tău 7card</p>
+                        <button class="upfcl-btn upfcl-btn-md upfcl-btn-seven-card--default footer-partner-button" id="seven_auth">Autentifică-te</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<div id="upfcl-club-member" class="upfcl_hide_footer" style="display:none;">
+    <div class="footer-partner-content">
+        <div class="upfcl-container">
+            <div class="upfcl-row">
+                <div class="upfcl-col-md-3">
+                    <div class="footer-partner-img">
+                        <img src="/logo.APP_LOGO_EXT" class="upfcl-img-fluid" />
+                    </div>
+                </div>
+                <div class="upfcl-col-md-9">
+                    <div class="footer-partner-text">
+                        <h4 class="upfcl-note__heading footer-partner-heading">Vrei să îți rezervi folosind contul tău de membru BIG FITNESS?</h4>
+                        <p class="footer-partner-p">Poți să îți rezervi online locul la clasă folosind datele contului tău de membru BIG FITNESS</p>
+                        <button class="upfcl-btn upfcl-btn-md upfcl-btn-seven-card--default upfcl-modal-book footer-partner-button" id="book-class-id" data-id="">Autentifică-te</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<script src="/assets/js/book-class-7card.js?202210201111" type="text/javascript"></script>        <link href="/assets/style/css/style.bundle.min.css?202312071414" rel="stylesheet" type="text/css">
+<style>
+	body {height:unset !important; }
+</style>
+<script src="/assets/style/vendors/general/bootstrap/dist/js/bootstrap.js"></script>
+<!-- Modal -->
+<div class="modal fade sanopass-modal" id="inbox" tabindex="-1" role="dialog" aria-labelledby="user" aria-hidden="true">
+    <div class="modal-dialog modal-lg">
+        <div class="modal-content">
+            <div id="iframe"></div>
+        </div>
+    </div>
+</div>
+<script type="text/javascript">
+    // Partner Site script
+    window.addEventListener(
+        'message',
+        (event) => {
+            if (event.data.action === 'booking-result'){
+                if(event.data.data.result == '0' || event.data.data.result == '1' || event.data.data.result == '2'){
+                    var msg_description = event.data.data.description;
+                }else{
+                    var msg_description = '<div class="upfcl-note upfcl-note--danger" style="margin-top: 0px;"><h4 class="upfcl-note__heading">Rezervarea NU a fost făcută</h4></div><div class="upfcl-modal-content" style="font-size: initial; padding-top:0px;"><span>' + event.data.data.description + '</span></div>';
+                }
+                var message_html = '<div style="text-align: center;"><img src="/assets/SP_FIT_dark.svg" class="header-succes-img" style="width: 120px; margin: 0px;"></div>' + msg_description + ' <div class="tingle-modal-box__footer" style="text-align: center;"><button class="upfcl-btn upfcl-btn-lg upfcl-btn-outline--default" id="close_btn" style="text-align: center;" aria-label="Close">ÎNCHIDE</button></div>';
+                $('.modal-content').html(message_html,function(){
+                    $('#myModal').modal({show:true});
+                });
+                $('#close_btn').on('click', function () {
+                    location.reload();
+                });
+            }
+        },
+        false
+    );
+    // Partner Site
+
+    $('.sanopass-book').on('click',function(){
+        var decrypt_val = '';
+        var hash_encode = $(this).data('params');
+        // $.ajax({
+        //     type: "POST",
+        //     cache: false,
+        //     dataType: "json",
+        //     url: "/ajax/decrypt.php",
+        //     data: {
+        //         hash: hash_encode,
+        //     },
+            
+        // }).done(function( response ) {
+        //     decrypt_val = response.result;
+            $('.modal-content').html('<div style="text-align: center;"><img src="/assets/SP_FIT_dark.svg" class="header-succes-img" style="width: 120px; margin: 0px;"></div><iframe src="https://client.sanopass.ro/dist/external/login/partner?params=' + hash_encode + '" height="500;" style="border:none;" /><div class="tingle-modal-box__footer" style="text-align: center;"><button class="upfcl-btn upfcl-btn-lg upfcl-btn-outline--default" id="close_btn" style="text-align: center;" aria-label="Close">ÎNCHIDE</button></div>',function(){
+                $('#myModal').modal({show:true});
+            });
+            $('#close_btn').on('click', function () {
+                location.reload();
+            });
+        // });
+    });
+    $('.sanopass-modal').on('hidden.bs.modal', function () {
+        location.reload();
+    });
+</script>        <script src="/assets/js/scripts.js?201810301223" type="text/javascript"></script>
+            <style>
+                
+                        .upfcl-sc-c834ef0413cb062aada2a56e769d63d1 {color: #e00bd8; border-left-color: #e00bd8;}
+                        LI.upfcl-sc-c834ef0413cb062aada2a56e769d63d1::before {background: #e00bd8;}
+                        .upfcl-sc-c834ef0413cb062aada2a56e769d63d1 .upfcl-btn{ background: #e00bd8; color: #fff; }
+                            .upfcl-sc-c834ef0413cb062aada2a56e769d63d1 .upfcl-btn:hover{ filter: brightness(85%); }
+                    
+
+                        .upfcl-sc-9e470c0219dcb994c9f6ccd278859950 {color: #b58e04; border-left-color: #b58e04;}
+                        LI.upfcl-sc-9e470c0219dcb994c9f6ccd278859950::before {background: #b58e04;}
+                        .upfcl-sc-9e470c0219dcb994c9f6ccd278859950 .upfcl-btn{ background: #b58e04; color: #fff; }
+                            .upfcl-sc-9e470c0219dcb994c9f6ccd278859950 .upfcl-btn:hover{ filter: brightness(85%); }
+                    
+
+                        .upfcl-sc-0b69d27b50d60d063dc0c5e9a31af874 {color: #00efff; border-left-color: #00efff;}
+                        LI.upfcl-sc-0b69d27b50d60d063dc0c5e9a31af874::before {background: #00efff;}
+                        .upfcl-sc-0b69d27b50d60d063dc0c5e9a31af874 .upfcl-btn{ background: #00efff; color: #fff; }
+                            .upfcl-sc-0b69d27b50d60d063dc0c5e9a31af874 .upfcl-btn:hover{ filter: brightness(85%); }
+                    
+
+                        .upfcl-sc-ad0fa5f139316dbc5298af6822395451 {color: #e60b0b; border-left-color: #e60b0b;}
+                        LI.upfcl-sc-ad0fa5f139316dbc5298af6822395451::before {background: #e60b0b;}
+                        .upfcl-sc-ad0fa5f139316dbc5298af6822395451 .upfcl-btn{ background: #e60b0b; color: #fff; }
+                            .upfcl-sc-ad0fa5f139316dbc5298af6822395451 .upfcl-btn:hover{ filter: brightness(85%); }
+                    
+
+                        .upfcl-sc-afe56c92d915e670afcd4aa389eb0750 {color: #ff1e1e; border-left-color: #ff1e1e;}
+                        LI.upfcl-sc-afe56c92d915e670afcd4aa389eb0750::before {background: #ff1e1e;}
+                        .upfcl-sc-afe56c92d915e670afcd4aa389eb0750 .upfcl-btn{ background: #ff1e1e; color: #fff; }
+                            .upfcl-sc-afe56c92d915e670afcd4aa389eb0750 .upfcl-btn:hover{ filter: brightness(85%); }
+                    
+
+                        .upfcl-sc-edb64a404a639974e20ec958095ce4ac {color: #0500ff; border-left-color: #0500ff;}
+                        LI.upfcl-sc-edb64a404a639974e20ec958095ce4ac::before {background: #0500ff;}
+                        .upfcl-sc-edb64a404a639974e20ec958095ce4ac .upfcl-btn{ background: #0500ff; color: #fff; }
+                            .upfcl-sc-edb64a404a639974e20ec958095ce4ac .upfcl-btn:hover{ filter: brightness(85%); }
+                    
+
+                        .upfcl-sc-fdb6da6c369d456f6f1c12bcb1fec8a2 {color: #696b6b; border-left-color: #696b6b;}
+                        LI.upfcl-sc-fdb6da6c369d456f6f1c12bcb1fec8a2::before {background: #696b6b;}
+                        .upfcl-sc-fdb6da6c369d456f6f1c12bcb1fec8a2 .upfcl-btn{ background: #696b6b; color: #fff; }
+                            .upfcl-sc-fdb6da6c369d456f6f1c12bcb1fec8a2 .upfcl-btn:hover{ filter: brightness(85%); }
+                    
+
+                        .upfcl-sc-522f694f92e679d874a1cc2b2616c3d7 {color: #7854de; border-left-color: #7854de;}
+                        LI.upfcl-sc-522f694f92e679d874a1cc2b2616c3d7::before {background: #7854de;}
+                        .upfcl-sc-522f694f92e679d874a1cc2b2616c3d7 .upfcl-btn{ background: #7854de; color: #fff; }
+                            .upfcl-sc-522f694f92e679d874a1cc2b2616c3d7 .upfcl-btn:hover{ filter: brightness(85%); }
+                    
+
+                        .upfcl-sc-364e6beb127ef9ae8d1cdf6c1d5699b7 {color: #171613; border-left-color: #171613;}
+                        LI.upfcl-sc-364e6beb127ef9ae8d1cdf6c1d5699b7::before {background: #171613;}
+                        .upfcl-sc-364e6beb127ef9ae8d1cdf6c1d5699b7 .upfcl-btn{ background: #171613; color: #fff; }
+                            .upfcl-sc-364e6beb127ef9ae8d1cdf6c1d5699b7 .upfcl-btn:hover{ filter: brightness(85%); }
+                    
+
+                        .upfcl-sc-726df3ccc4f0ee54d68fcd87e4f1619e {color: #31b346; border-left-color: #31b346;}
+                        LI.upfcl-sc-726df3ccc4f0ee54d68fcd87e4f1619e::before {background: #31b346;}
+                        .upfcl-sc-726df3ccc4f0ee54d68fcd87e4f1619e .upfcl-btn{ background: #31b346; color: #fff; }
+                            .upfcl-sc-726df3ccc4f0ee54d68fcd87e4f1619e .upfcl-btn:hover{ filter: brightness(85%); }
+                    
+
+                        .upfcl-sc-e657cce1913c857166b0475f18668ef5 {color: #0017e6; border-left-color: #0017e6;}
+                        LI.upfcl-sc-e657cce1913c857166b0475f18668ef5::before {background: #0017e6;}
+                        .upfcl-sc-e657cce1913c857166b0475f18668ef5 .upfcl-btn{ background: #0017e6; color: #fff; }
+                            .upfcl-sc-e657cce1913c857166b0475f18668ef5 .upfcl-btn:hover{ filter: brightness(85%); }
+                    
+
+                        .upfcl-sc-d78c194f900b48bf99f4531f613ec037 {color: #8347cf; border-left-color: #8347cf;}
+                        LI.upfcl-sc-d78c194f900b48bf99f4531f613ec037::before {background: #8347cf;}
+                        .upfcl-sc-d78c194f900b48bf99f4531f613ec037 .upfcl-btn{ background: #8347cf; color: #fff; }
+                            .upfcl-sc-d78c194f900b48bf99f4531f613ec037 .upfcl-btn:hover{ filter: brightness(85%); }
+                    
+
+                        .upfcl-sc-b42a4aa258c3831364383a02dfa54fcd {color: #357894; border-left-color: #357894;}
+                        LI.upfcl-sc-b42a4aa258c3831364383a02dfa54fcd::before {background: #357894;}
+                        .upfcl-sc-b42a4aa258c3831364383a02dfa54fcd .upfcl-btn{ background: #357894; color: #fff; }
+                            .upfcl-sc-b42a4aa258c3831364383a02dfa54fcd .upfcl-btn:hover{ filter: brightness(85%); }
+                    
+
+                        .upfcl-sc-1a41f13702ddf844a28d6ed9befbfbf5 {color: #ff0000; border-left-color: #ff0000;}
+                        LI.upfcl-sc-1a41f13702ddf844a28d6ed9befbfbf5::before {background: #ff0000;}
+                        .upfcl-sc-1a41f13702ddf844a28d6ed9befbfbf5 .upfcl-btn{ background: #ff0000; color: #fff; }
+                            .upfcl-sc-1a41f13702ddf844a28d6ed9befbfbf5 .upfcl-btn:hover{ filter: brightness(85%); }
+                    
+
+                        .upfcl-sc-8c0ecdfd65541693490ee899fe659e08 {color: #ff5c00; border-left-color: #ff5c00;}
+                        LI.upfcl-sc-8c0ecdfd65541693490ee899fe659e08::before {background: #ff5c00;}
+                        .upfcl-sc-8c0ecdfd65541693490ee899fe659e08 .upfcl-btn{ background: #ff5c00; color: #fff; }
+                            .upfcl-sc-8c0ecdfd65541693490ee899fe659e08 .upfcl-btn:hover{ filter: brightness(85%); }
+                    
+
+                        .upfcl-sc-f5d28e36a6d8c3342613a2411db1f9a0 {color: #2661d4; border-left-color: #2661d4;}
+                        LI.upfcl-sc-f5d28e36a6d8c3342613a2411db1f9a0::before {background: #2661d4;}
+                        .upfcl-sc-f5d28e36a6d8c3342613a2411db1f9a0 .upfcl-btn{ background: #2661d4; color: #fff; }
+                            .upfcl-sc-f5d28e36a6d8c3342613a2411db1f9a0 .upfcl-btn:hover{ filter: brightness(85%); }
+                    
+
+                        .upfcl-sc-9a77b2712d8d166aab25fe4a52a06e7d {color: #73176a; border-left-color: #73176a;}
+                        LI.upfcl-sc-9a77b2712d8d166aab25fe4a52a06e7d::before {background: #73176a;}
+                        .upfcl-sc-9a77b2712d8d166aab25fe4a52a06e7d .upfcl-btn{ background: #73176a; color: #fff; }
+                            .upfcl-sc-9a77b2712d8d166aab25fe4a52a06e7d .upfcl-btn:hover{ filter: brightness(85%); }
+                    
+
+                        .upfcl-sc-3f086716e9bd853e8ca036be91664b3c {color: #3b8ea8; border-left-color: #3b8ea8;}
+                        LI.upfcl-sc-3f086716e9bd853e8ca036be91664b3c::before {background: #3b8ea8;}
+                        .upfcl-sc-3f086716e9bd853e8ca036be91664b3c .upfcl-btn{ background: #3b8ea8; color: #fff; }
+                            .upfcl-sc-3f086716e9bd853e8ca036be91664b3c .upfcl-btn:hover{ filter: brightness(85%); }
+                    
+
+                        .upfcl-sc-9bdb790536d6f894b0a4a05fd64a4bfc {color: #368a58; border-left-color: #368a58;}
+                        LI.upfcl-sc-9bdb790536d6f894b0a4a05fd64a4bfc::before {background: #368a58;}
+                        .upfcl-sc-9bdb790536d6f894b0a4a05fd64a4bfc .upfcl-btn{ background: #368a58; color: #fff; }
+                            .upfcl-sc-9bdb790536d6f894b0a4a05fd64a4bfc .upfcl-btn:hover{ filter: brightness(85%); }
+                    
+
+                        .upfcl-sc-f28ad38806f5defe04838de3042a5cdf {color: #35bd06; border-left-color: #35bd06;}
+                        LI.upfcl-sc-f28ad38806f5defe04838de3042a5cdf::before {background: #35bd06;}
+                        .upfcl-sc-f28ad38806f5defe04838de3042a5cdf .upfcl-btn{ background: #35bd06; color: #fff; }
+                            .upfcl-sc-f28ad38806f5defe04838de3042a5cdf .upfcl-btn:hover{ filter: brightness(85%); }
+                                </style>
+    </body>
+</html>
