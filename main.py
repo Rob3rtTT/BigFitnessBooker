@@ -13,15 +13,11 @@ class Booker():
         with open('./output.txt', 'r') as f:
             self.response = f.read()
         self.classes = {}
-        self.get_class_id(self.response)
-        self.get_class_names()
-        self.get_class_dates()
+        # self.get_class_id(self.response)
+        # self.get_class_names()
+        # self.get_class_dates()
+        self.get_all_classes()
             
-        
-        
-    # def parse_response(self, response):
-    #     class_ids = self.get_class_id()
-    
     def get_class_id(self, response):
         pattern = r'id="upfcl-class-name-(\d+)"'
         for match in re.finditer(pattern, response):
@@ -41,7 +37,19 @@ class Booker():
             _pattern = r'<div class="upfcl-class-date" id="upfcl-class-date-{0}" style="display:none">(\d+\.\d+\.\d+)</div>'.format(class_id)
             for line in re.finditer(_pattern, self.response):
                 self.classes[class_id]["date"] = line.group(1)
-                
+
+    def get_all_classes(self):
+        id_pattern = r'id="upfcl-class-name-(\d+)"'
+        for cid in re.finditer(id_pattern, self.response):
+            cid = cid.group(1)
+            self.classes[cid] = {}
+            class_name = re.search(fr'<div class="upfcl-class-room" id="upfcl-class-room-{cid}">([^<]+)</div>', self.response)
+            print("Class name: ", class_name)
+            self.classes[cid]["class name"] = class_name.group(1)
+            class_date = re.search(r'<div class="upfcl-class-date" id="upfcl-class-date-{0}" style="display:none">(\d+\.\d+\.\d+)</div>'.format(cid), self.response)
+            print("Class date: ", class_date)
+            self.classes[cid]["class date"] = class_date.group(1)
+            print(self.classes)
 Booker()
         
         
